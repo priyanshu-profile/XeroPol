@@ -8,9 +8,9 @@ The folder Code/XeroPol contains the code for the proposed architecture.
 ## Data
 The folder Data/ contains the datasets used in this work.
 
-%## Dataset Request Access
+<!--## Dataset Request Access-->
 
-%To request full access to the datasets, fill out the agreement form [linked here](https://docs.google.com/forms/d/e/1FAIpQLSczdPY7e0_j_baojl19ZxCJ4r9E0F4VLHRY186suAQV6VJZsg/viewform)
+<!--To request full access to the datasets, fill out the agreement form [linked here](https://docs.google.com/forms/d/e/1FAIpQLSczdPY7e0_j_baojl19ZxCJ4r9E0F4VLHRY186suAQV6VJZsg/viewform)-->
 
 ## Citations
 
