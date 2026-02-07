@@ -1,0 +1,10 @@
+Perfect! Thanks a ton Muthu! Just give me a moment I'll go ahead and check your seat and let you know.|3|2|en_XX|{'tokens': ['Perfect!', 'Thanks', 'a', 'ton', 'Muthu!', 'Just', 'give', 'me', 'a', 'moment', "I'll", 'go', 'ahead', 'and', 'check', 'your', 'seat', 'and', 'let', 'you', 'know.'], 'politeness': 3, 'sentiment': 2}
+NOTHING ELSE SIR...THANK YOU|3|2|en_XX|{'tokens': ['NOTHING', 'ELSE', 'SIR...THANK', 'YOU'], 'politeness': 3, 'sentiment': 2}
+Okay|2|2|en_XX|{'tokens': ['Okay'], 'politeness': 2, 'sentiment': 2}
+suhas kooi and fgjfjfgjf@gmail.com|2|0|en_XX|{'tokens': ['suhas', 'kooi', 'and', 'fgjfjfgjf@gmail.com'], 'politeness': 2, 'sentiment': 0}
+BOSS|0|0|en_XX|{'tokens': ['BOSS'], 'politeness': 0, 'sentiment': 0}
+can i get my boarding pass to my mail?|0|0|en_XX|{'tokens': ['can', 'i', 'get', 'my', 'boarding', 'pass', 'to', 'my', 'mail?'], 'politeness': 0, 'sentiment': 0}
+Thank you for visiting us, wish to serve you again. Have a nice time!|3|2|en_XX|{'tokens': ['Thank', 'you', 'for', 'visiting', 'us,', 'wish', 'to', 'serve', 'you', 'again.', 'Have', 'a', 'nice', 'time!'], 'politeness': 3, 'sentiment': 2}
+Its okay.|2|2|en_XX|{'tokens': ['Its', 'okay.'], 'politeness': 2, 'sentiment': 2}
+Hey there, Good morning! You'v reached Jet fly customer service! You're connected to Sam! I'd be glad to assist you today!|3|2|en_XX|{'tokens': ['Hey', 'there,', 'Good', 'morning!', "You'v", 'reached', 'Jet', 'fly', 'customer', 'service!', "You're", 'connected', 'to', 'Sam!', "I'd", 'be', 'glad', 'to', 'assist', 'you', 'today!'], 'politeness': 3, 'sentiment': 2}
+Thank you for staying connected, the boarding pass will be sent to the email address or phone number shortly.|3|0|en_XX|{'tokens': ['Thank', 'you', 'for', 'staying', 'connected,', 'the', 'boarding', 'pass', 'will', 'be', 'sent', 'to', 'the', 'email', 'address', 'or', 'phone', 'number', 'shortly.'], 'politeness': 3, 'sentiment': 0}

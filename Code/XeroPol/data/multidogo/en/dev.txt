@@ -1,0 +1,10 @@
+Please gohead|2|0|en_XX|{'tokens': ['Please', 'gohead'], 'politeness': 2, 'sentiment': 0}
+Okay|2|2|en_XX|{'tokens': ['Okay'], 'politeness': 2, 'sentiment': 2}
+ok|2|0|en_XX|{'tokens': ['ok'], 'politeness': 2, 'sentiment': 0}
+Fantastic! Here's your seat number K17 which is a aisle seat, Is that okay for you?|2|2|en_XX|{'tokens': ['Fantastic!', "Here's", 'your', 'seat', 'number', 'K17', 'which', 'is', 'a', 'aisle', 'seat,', 'Is', 'that', 'okay', 'for', 'you?'], 'politeness': 2, 'sentiment': 2}
+hai|2|0|en_XX|{'tokens': ['hai'], 'politeness': 2, 'sentiment': 0}
+NOTHING ELSE|2|0|en_XX|{'tokens': ['NOTHING', 'ELSE'], 'politeness': 2, 'sentiment': 0}
+Thanks Martin! May I please know the booking confirmation number?|3|2|en_XX|{'tokens': ['Thanks', 'Martin!', 'May', 'I', 'please', 'know', 'the', 'booking', 'confirmation', 'number?'], 'politeness': 3, 'sentiment': 2}
+Perfect! Lastly, may I please know your email address to which you'd like me to send the boarding pass?|3|0|en_XX|{'tokens': ['Perfect!', 'Lastly,', 'may', 'I', 'please', 'know', 'your', 'email', 'address', 'to', 'which', "you'd", 'like', 'me', 'to', 'send', 'the', 'boarding', 'pass?'], 'politeness': 3, 'sentiment': 0}
+NUMBER - TSP450|0|0|en_XX|{'tokens': ['NUMBER', '-', 'TSP450'], 'politeness': 0, 'sentiment': 0}
+Hello Madhu! May I know your departure and the arrival city please?|3|0|en_XX|{'tokens': ['Hello', 'Madhu!', 'May', 'I', 'know', 'your', 'departure', 'and', 'the', 'arrival', 'city', 'please?'], 'politeness': 3, 'sentiment': 0}
