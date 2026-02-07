@@ -1,0 +1,1117 @@
+ENG_utterances,HIN_utterances,politeness,sentiment
+Please gohead, प्लीज़ गोहेड,2,0
+Okay, ठीक,2,2
+ok, ठीक है,2,0
+"Fantastic! Here's your seat number K17 which is a aisle seat, Is that okay for you?"," ज़बरदस्त! ये रहा आपका सीट नंबर K17, जो कि गलियारे की सीट है, क्या यह आपके लिए ठीक है?",2,2
+hai, हाय,2,0
+NOTHING ELSE, और कुछ नहीं,2,0
+Thanks Martin! May I please know the booking confirmation number?, धन्यवाद मार्टिन! क्या मैं कृपया बुकिंग पुष्टिकरण संख्या जान सकता हूँ?,3,2
+"Perfect! Lastly, may I please know your email address to which you'd like me to send the boarding pass?"," उत्तम! अंत में, क्या मैं आपका ईमेल पता जान सकता हूँ जिस पर आप मुझे बोर्डिंग पास भेजना चाहते हैं?",3,0
+NUMBER - TSP450, संख्या - टीएसपी450,0,0
+Hello Madhu! May I know your departure and the arrival city please?, नमस्ते मधु! क्या मैं आपका प्रस्थान और आगमन का शहर जान सकता हूँ?,3,0
+Glad to help you. Please go through this website: www.pilotairlines.com in case of any query and help us help you. Good day!, आपकी मदद करके प्रसन्नता हुई। कृपया इस वेबसाइट को देखें: www.pilotairlines.com किसी भी प्रश्न के मामले में और आपकी सहायता करने में हमारी सहायता करें। अच्छा दिन!,3,2
+OK, ठीक है,2,0
+i need boarding pass, मुझे बोर्डिंग पास चाहिए,1,0
+i wants to book a flight, मैं एक उड़ान बुक करना चाहता हूँ,1,0
+"Awesome! Thanks for reaching out to us, hope you have a wonderful trip ahead. "," बहुत बढ़िया! हमसे संपर्क करने के लिए धन्यवाद, आशा है कि आपकी आगे की यात्रा शानदार रही होगी।",3,2
+YES, हां,2,2
+hi, नमस्ते,2,0
+Glad to help you today. Please go through this website: www.pilotairlines.com in case of any query and help us help you. Good day!, आज आपकी मदद करके खुशी हुई। कृपया इस वेबसाइट को देखें: www.pilotairlines.com किसी भी प्रश्न के मामले में और आपकी सहायता करने में हमारी सहायता करें। अच्छा दिन!,3,2
+"Hello! You've been connected to StarAirways customer service! I'll provide you with the boarding pass, could you help me out with your full name and the booking confirmation number? ","नमस्ते! आप StarAirways ग्राहक सेवा से जुड़ चुके हैं! मैं आपको बोर्डिंग पास प्रदान करूंगा, क्या आप अपना पूरा नाम और बुकिंग पुष्टिकरण संख्या प्रदान करने में मेरी सहायता कर सकते हैं?",3,0
+Would there be anything else I may assist you with?, क्या कुछ और होगा जिसमें मैं आपकी सहायता कर सकूं?,2,0
+yup, हां,0,0
+"Good news! I've sent you an email attaching your boarding pass, you can download it. I hope this is useful?"," खुशखबरी! मैंने आपको आपका बोर्डिंग पास संलग्न करते हुए एक ईमेल भेजा है, आप इसे डाउनलोड कर सकते हैं। मैं उम्मीद करता हूँ यह उपयोगी है?",3,2
+elango@gmail.com, elango@gmail.com,0,0
+check my seat assignment, मेरी सीट असाइनमेंट की जाँच करें,2,0
+i want to book two seats, मैं दो सीटें बुक करना चाहता हूं,1,2
+Hello there! A Very Good morning! Welcome to Moon way airline service! How may I help you with?, नमस्ते! एक बहुत ही शुभ प्रभात! मून वे एयरलाइन सेवा में आपका स्वागत है! मैं आपकी कैसे मदद कर सकता हूँ?,3,2
+"Good morning! You've reached Alliance Airways Customer service, how may I help you?  "," सुबह बख़ैर! आप एलायंस एयरवेज ग्राहक सेवा तक पहुँच चुके हैं, मैं आपकी कैसे मदद कर सकता हूँ?",3,0
+4 DAYS, चार दिन,0,0
+Great! Please allow me a moment to check the details and I'll let you know., महान! कृपया मुझे विवरण देखने के लिए कुछ समय दें और मैं आपको बता दूंगा।,3,2
+check my seat, मेरी सीट चेक करो,2,0
+Hello! Welcome to Air USA! How may I know your name?, नमस्ते! एयर यूएसए में आपका स्वागत है! मैं आपका नाम कैसे जान सकता हूँ?,3,0
+NOTHING ELSE, और कुछ नहीं,2,0
+BUSINESS, व्यापार,0,0
+OK, ठीक है,2,0
+i wants to book a flight, मैं एक उड़ान बुक करना चाहता हूँ,1,0
+no thanks," जी नहीं, धन्यवाद",3,1
+Of course! Seat number B6 is an aisle seat and it is available. Would you like to take that?, बेशक! सीट संख्या B6 एक गलियारा सीट है और यह उपलब्ध है। क्या आप इसे लेना चाहेंगे?,3,0
+100023,100023,0,0
+i want to change my seat assignment?,मैं अपना सीट असाइनमेंट बदलना चाहता हूं?,2,0
+"Hurrah! I've booked your flight tickets, it is Delta airlines flight at Sept 6th, from Texas to New York, departure time- 4:00 AM and arrival time- 6:00 AM for 1 passengers and it is costing you $155. I've sent you an email, kindly find the link and follow the further guidelines, As soon as the payment is done, you'll receive the confirmation email and you'll also get a booking confirmation number in the email. I hope all that is clea?"," हुर्रे! मैंने आपकी फ्लाइट के टिकट बुक कर लिए हैं, यह 6 सितंबर को डेल्टा एयरलाइंस की फ्लाइट है, टेक्सास से न्यूयॉर्क के लिए, प्रस्थान का समय- 4:00 पूर्वाह्न और आगमन का समय- 1 यात्रियों के लिए सुबह 6:00 बजे और इसकी कीमत आपको $155 है। मैंने आपको एक ईमेल भेजा है, कृपया लिंक ढूंढें और आगे के दिशानिर्देशों का पालन करें, जैसे ही भुगतान हो जाएगा, आपको पुष्टिकरण ईमेल प्राप्त होगा और आपको ईमेल में बुकिंग पुष्टिकरण संख्या भी प्राप्त होगी। मुझे आशा है कि यह सब साफ है?",2,1
+"Surely, I'll be glad to help you with it. Please may I know your full name?"," निश्चित रूप से, मुझे इसमें आपकी मदद करने में खुशी होगी। कृपया क्या मैं आपका पूरा नाम जान सकता हूँ?",3,0
+ooking confirmation no kiu459, ooking पुष्टिकरण संख्या kiu459,2,0
+ok, ठीक है,2,0
+Aravindh I'd like to inform you that you have been allotted 9 C which is a window seat., अरविंद मैं आपको सूचित करना चाहता हूं कि आपको 9 सी आवंटित किया गया है जो एक विंडो सीट है।,2,0
+Sure. Thank you for reaching out to us. Have a great day!, ज़रूर। हमसे संपर्क की पहल के लिए आपका धन्यवाद। आपका दिन अच्छा रहे!,3,2
+YES OK FOR ME, हाँ मेरे लिए ठीक है,2,2
+i need a boarding pass, मुझे बोर्डिंग पास चाहिए,1,0
+ok, ठीक है,2,0
+"Appreciate your patience! The seat assigned to you is 5A, aisle seat. Anything else you'd like to know?"," अपने धैर्य की सराहना! आपको दी गई सीट 5A, गलियारा सीट है। कुछ और जो आप जानना चाहेंगे?",3,2
+"Perfect! Thank you for that. Could you please allow me for a minute or two, while I quickly get this done for you?","उत्तम! उसके लिये आपका धन्यवाद। क्या आप कृपया मुझे एक या दो मिनट के लिए अनुमति दे सकते हैं, जबकि मैं आपके लिए यह जल्दी से कर देता हूँ?",3,2
+"Sure! I'll be glad to help you, may I please know the departure and arrival city?"," ज़रूर! मुझे आपकी मदद करने में खुशी होगी, क्या मैं कृपया प्रस्थान और आगमन के शहर को जान सकता हूँ?",3,0
+A very good morning! You've reached the Moon Airways customer service. How may I help you today?, एक बहुत अच्छी सुबह! आप मून एयरवेज ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,2
+confirmation number hik156, पुष्टिकरण संख्या hik156,2,0
+Perfect! Will there be anything else?, उत्तम! क्या कुछ और होगा?,2,2
+my booking number is asc145, मेरा बुकिंग नंबर है asc145,1,0
+"Sure, I'll try my best to change it to the middle seat. Please allow me a minute to check the seat availability."," ज़रूर, मैं इसे बीच की सीट पर बदलने की पूरी कोशिश करूँगा। कृपया मुझे सीट की उपलब्धता की जांच करने के लिए एक मिनट का समय दें।",3,0
+"Awesome! Good news, Janish! There's H8 and M0 available, please choose the most preferred seats for you. "," बहुत बढ़िया! अच्छी खबर, जानिश! H8 और M0 उपलब्ध हैं, कृपया अपने लिए सबसे पसंदीदा सीटें चुनें।",3,2
+"Nothing else, Thank you for your Booking. Have a nice day to chat with you."," और कुछ नहीं, आपकी बुकिंग के लिए धन्यवाद। आपके साथ चैट करने के लिए एक अच्छा दिन है।",3,0
+OK, ठीक है,2,0
+check my seat?, मेरी सीट चेक करो?,2,0
+"May I know your phone number to process the request.
+", क्या मैं अनुरोध को संसाधित करने के लिए आपका फ़ोन नंबर जान सकता हूँ।,2,0
+"That's great, You've changed your mind and accepted for a window seat. You'll definitely enjoy your journey by the window seat.
+"," यह बहुत अच्छा है, आपने अपना विचार बदल दिया है और विंडो सीट के लिए स्वीकार कर लिया है। आप निश्चित रूप से विंडो सीट से अपनी यात्रा का आनंद लेंगे।",2,2
+HI, नमस्ते,2,0
+ok thanks, ठीक है धन्यवाद,3,0
+are you here?, क्या आप यहां हैं?,0,0
+* Make a correction skrish@hotmail.com, सुधार करें skrish@hotmail.com,2,0
+ok thank you, ठीक है धन्यवाद,3,0
+my booking number po8523, मेरा बुकिंग नंबर po8523,1,0
+jessly, jessly,0,0
+Sounds good. Is there anything else I may help you with?, सुनने में तो अच्छा लगता है। क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूं?,3,2
+"Sorry to keep you waiting, your seat number is 5D it is a middle row seat, is that okay?"," आपको प्रतीक्षा करने के लिए क्षमा करें, आपकी सीट संख्या 5D है, यह मध्य पंक्ति की सीट है, क्या यह ठीक है?",3,0
+Alright! May I please know when would you like to travel?, ठीक है! क्या मैं कृपया जान सकता हूँ कि आप कब यात्रा करना चाहेंगे?,3,0
+Absolutely! It will be my pleasure to help you. Please may I know your name?, बिल्कुल! आपकी मदद करने में मुझे खुशी होगी। कृपया क्या मैं आपका नाम जान सकता हूँ?,3,2
+"Good morning! You've reached Alliance Airways Customer service, how may I help you?  "," सुबह बख़ैर! आप एलायंस एयरवेज ग्राहक सेवा तक पहुँच चुके हैं, मैं आपकी कैसे मदद कर सकता हूँ?",3,0
+Thank you. The boarding pass has been sent to the email address. Please fell free to reach out to us at anytime in case of any queries., शुक्रिया। बोर्डिंग पास ईमेल पते पर भेज दिया गया है। कृपया किसी भी प्रश्न के मामले में किसी भी समय हमसे संपर्क करने के लिए स्वतंत्र रहें।,3,0
+I want check my seat assignment, मुझे अपना सीट असाइनमेंट चेक करना है,2,0
+Thanks a lot., बहुत-बहुत धन्यवाद।,3,2
+Of course! B9 is a window seat and it is available. Would you like to take that?, बेशक! बी9 विंडो सीट है और यह उपलब्ध है। क्या आप इसे लेना चाहेंगे?,3,0
+SDE458, एसडीई458,0,0
+Thank you very much., आपका बहुत बहुत धन्यवाद।,3,2
+"As I've checked with the resources, I see that the seat allotted to you is the middle seat which is G4."," जैसा कि मैंने संसाधनों के साथ जांच की है, मैं देखता हूं कि आपको आवंटित सीट बीच की सीट है जो कि G4 है।",2,0
+Fantastic! The boarding pass will be sent to the phone number shortly., ज़बरदस्त! बोर्डिंग पास शीघ्र ही फोन नंबर पर भेज दिया जाएगा।,2,2
+Sure!! I would love to help you out with this. I'll need your details. May I know your full name please?,ज़रूर!! मुझे इसमें आपकी मदद करना अच्छा लगेगा। मुझे आपके विवरण की आवश्यकता होगी। क्या मैं आपका पूरा नाम जान सकता हूँ?,3,2
+If there is no reply from your end I'll be forced to close the chat., अगर आपकी तरफ से कोई जवाब नहीं आया तो मुझे चैट बंद करने के लिए मजबूर किया जाएगा।,1,1
+NAME:JOHN MY BOOKING NO:JKL635, नाम: जॉन माई बुकिंग नंबर: JKL635,2,0
+Hi, नमस्ते,2,0
+Alright Howard! Could you please share the booking confirmation number?, ठीक है हावर्ड! क्या आप कृपया बुकिंग पुष्टिकरण संख्या साझा कर सकते हैं?,3,0
+Surely! I'd be glad to help you with that. Could you please help me with your last name and your booking confirmation number?, निश्चित रूप से! मुझे इसमें आपकी मदद करने में खुशी होगी। क्या आप कृपया अपने अंतिम नाम और अपनी बुकिंग पुष्टिकरण संख्या के साथ मेरी मदद कर सकते हैं?,3,0
+RIHANA, रिहाना,0,0
+It's rankins, यह रैंकिन है,2,2
+I NEED A BOARDING PASS, मुझे एक बोर्डिंग पास चाहिए,1,0
+thank you, धन्यवाद,2,2
+564768435,564768435,0,0
+Can I get an aisle seat if there are any left open?, अगर कोई खुला बचा है तो क्या मुझे गलियारे की सीट मिल सकती है?,2,0
+"You're welcome! Thank you for visiting us, wish to serve you again. Have a nice time!"," आपका स्वागत है! हमारे पास आने के लिए धन्यवाद, मैं फिर से आपकी सेवा करना चाहता हूं। आशा है आपका समय अच्छा बीते!",3,2
+"Awesome! Thanks for reaching out to us, hope you have a wonderful trip ahead. "," बहुत बढ़िया! हमसे संपर्क करने के लिए धन्यवाद, आशा है कि आपकी आगे की यात्रा शानदार रही होगी।",3,2
+i need bording pass, मुझे बोर्डिंग पास चाहिए,1,0
+"You're welcome! Thank you for visiting us, wish to serve you again. Have a safe flight!"," आपका स्वागत है! हमारे पास आने के लिए धन्यवाद, मैं फिर से आपकी सेवा करना चाहता हूं। एक सुरक्षित उड़ान की कामना करते हैं!",3,2
+Please allow me a moment to check the details and process your request., कृपया मुझे विवरणों की जांच करने और आपके अनुरोध को संसाधित करने के लिए कुछ समय दें।,2,0
+"Awesome! Thanks for reaching out to us, hope you have a wonderful trip ahead. "," बहुत बढ़िया! हमसे संपर्क करने के लिए धन्यवाद, आशा है कि आपकी आगे की यात्रा शानदार रही होगी।",3,2
+"Thank you for being so patient and cooperative! It was really nice assisting you! I hope you have a great time, Happy travelling! Have a great day ahead! See ya! :)","इतने धैर्यवान और सहयोगी होने के लिए धन्यवाद! आपकी सहायता करना वाकई अच्छा लगा! मुझे आशा है कि आपके पास एक अच्छा समय है, हैप्पी ट्रैवलिंग! आगे एक महान दिन हो! फिर मिलेंगे! :)",3,2
+I'd like to inform you that the booking confirmation number should consists of letters and numbers., मैं आपको सूचित करना चाहता हूं कि बुकिंग पुष्टिकरण संख्या में अक्षर और संख्याएं होनी चाहिए।,3,0
+Hey there! Good morning. You're connected to LMT Airways. How may I help you?, सुनो! सुबह बख़ैर। आप एलएमटी एयरवेज से जुड़े हैं। क्या मेरे द्वारा आपकी कोई सहायता हो सकती है?,3,0
+"Always a pleasure! Thank you for reaching out to us, it's a pleasure assisting you. Have a great day and happy traveling!"," हमेशा एक खुशी की बात है! हमसे संपर्क करने के लिए धन्यवाद, आपकी सहायता करना खुशी की बात है। आपका दिन शुभ हो और यात्रा सुखद हो!",3,2
+number is po4567, संख्या पीओ4567 . है,0,0
+A very good morning! You've reached the Moon Airways customer service. How may I help you today?, एक बहुत अच्छी सुबह! आप मून एयरवेज ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,2
+"Awesome! Thanks for reaching out to us, hope you have a wonderful trip ahead. "," बहुत बढ़िया! हमसे संपर्क करने के लिए धन्यवाद, आशा है कि आपकी आगे की यात्रा शानदार रही होगी।",3,2
+"Thank you Vasuki, please give me a minute to check the seats assigned to you. "," धन्यवाद वासुकी, कृपया मुझे आपको सौंपी गई सीटों की जांच करने के लिए एक मिनट दें।",3,0
+Hi!, नमस्ते!,3,0
+"Absolutely, I'll be glad to help you out. Please may I know your full name?"," बिल्कुल, मुझे आपकी मदद करने में खुशी होगी। कृपया क्या मैं आपका पूरा नाम जान सकता हूँ?",3,2
+"Hello there good evening! Sky high customer services, How may I help you today?
+"," नमस्ते वहाँ शुभ संध्या! स्काई हाई कस्टमर सर्विसेज, मैं आज आपकी कैसे मदद कर सकता हूं?",3,0
+hello, नमस्ते,2,0
+I'm here to help you out. May I know your query?, मैं यहां आपकी मदद करने के लिए हूं। क्या मैं आपकी क्वेरी जान सकता हूँ?,3,0
+f87h98, f87h98,0,0
+ok thanks, ठीक है धन्यवाद,3,0
+y65r43, y65r43,0,0
+X456H8, X456H8,0,0
+Good morning! You've reached Flamingo customers service. How may I help you today?, सुबह बख़ैर! आप फ्लेमिंगो ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,1
+Now I am so glad, अब मैं बहुत खुश हूँ,1,2
+Can i give my mobile number,क्या मैं अपना मोबाइल नंबर दे सकता हूँ,0,0
+on thanks, धन्यवाद पर,3,0
+"Good morning! You've reached Alliance Airways Customer service, how may I help you?  "," सुबह बख़ैर! आप एलायंस एयरवेज ग्राहक सेवा तक पहुँच चुके हैं, मैं आपकी कैसे मदद कर सकता हूँ?",3,0
+"As there has been no response from a long time, I assume you're away. I'm forced to close this chat. Thanks for reaching out to us. Good day!"," चूंकि लंबे समय से कोई प्रतिक्रिया नहीं आई है, मुझे लगता है कि आप दूर हैं। मैं इस चैट को बंद करने के लिए विवश हूं। हमसे संपर्क करने के लिए धन्यवाद. अच्छा दिन!",3,1
+Hello! How may I assist you?, नमस्ते! मैं आपकी कैसे सहायता कर सकता हूँ?,3,0
+If there's no response the chat will be ended in a minute., अगर कोई प्रतिक्रिया नहीं है तो चैट एक मिनट में समाप्त हो जाएगी।,1,0
+"Sure! May I know your phone number or email address so that I can send you the boarding pass in anyone of them. 
+", ज़रूर! क्या मैं आपका फोन नंबर या ईमेल पता जान सकता हूं ताकि मैं आपको उनमें से किसी में भी बोर्डिंग पास भेज सकूं।,3,0
+Perfect! I'd like to inform you that your seat has been changed successfully., उत्तम! मैं आपको सूचित करना चाहता हूं कि आपकी सीट सफलतापूर्वक बदल दी गई है।,3,2
+" Oh no, may i take near window seat, it is possible?
+"," अरे नहीं, क्या मैं खिड़की की सीट के पास ले जा सकता हूँ, यह संभव है?",2,0
+"Thank you Tharun, please give me a minute to proceed further. "," धन्यवाद थारुन, कृपया मुझे आगे बढ़ने के लिए एक मिनट दें।",3,0
+thanks good bye, धन्यवाद अलविदा,3,0
+Sure! Please allow me a moment if there is nay window seat available., ज़रूर! कृपया मुझे एक क्षण की अनुमति दें यदि कोई खिड़की वाली सीट उपलब्ध नहीं है।,2,0
+SENT ME BOARDING PASS TO MY MAIL ID, मुझे मेरी मेल आईडी पर बोर्डिंग पास भेजा,0,0
+r54ewr, r54ewr,0,0
+Perfect! I'd like to inform you that your seat has been changed successfully., उत्तम! मैं आपको सूचित करना चाहता हूं कि आपकी सीट सफलतापूर्वक बदल दी गई है।,3,2
+"Sure, help me with your correct number."," ज़रूर, अपने सही नंबर के साथ मेरी मदद करें।",2,0
+SORRY, माफ़ करना,2,1
+Can I change it to an isle seat?, क्या मैं इसे आइल सीट में बदल सकता हूँ?,0,0
+"Good morning! You've reached Alliance Indian Airlines, how may I help you today?"," सुबह बख़ैर! आप एलायंस इंडियन एयरलाइंस पहुंच गए हैं, मैं आज आपकी कैसे मदद कर सकता हूं?",3,0
+"Thank you fro reaching out to us, Mani! Could you please share the booking confirmation number?","हमसे संपर्क करने के लिए धन्यवाद, मणि! क्या आप कृपया बुकिंग पुष्टिकरण संख्या साझा कर सकते हैं?",3,2
+name thiya, नाम थिया,2,0
+Done! May I know the number of passengers travelling?, पूर्ण! क्या मैं यात्रा करने वाले यात्रियों की संख्या जान सकता हूँ?,2,0
+Perfect! May I please know the name and email address on which the tickets should be booked?, उत्तम! क्या मैं कृपया वह नाम और ईमेल पता जान सकता हूँ जिस पर टिकट बुक किया जाना चाहिए?,3,2
+"Thank you Thomas, would you prefer window seat, aisle seat or middle seat?"," धन्यवाद थॉमस, क्या आप विंडो सीट, गलियारा सीट या बीच की सीट पसंद करेंगे?",3,0
+"Sure, I'll be glad to assist you. May I know your last name please?"," ज़रूर, मुझे आपकी सहायता करने में खुशी होगी। क्या मैं आपका अंतिम नाम जान सकता हूँ?",3,0
+No thank you!!!, नहीं धन्यवाद!!!,3,1
+hai, हाय,2,0
+ok, ठीक है,2,0
+"Sure,I am waiting for your replay."," ज़रूर, मैं आपके रीप्ले का इंतज़ार कर रहा हूँ।",2,0
+45C67X, 45C67X,0,0
+Okay. Thank you for reaching out to us. Good day!, ठीक। हमसे संपर्क की पहल के लिए आपका धन्यवाद। अच्छा दिन!,3,2
+Good morning, सुबह बख़ैर,3,2
+" Thank you for visiting us, wish to serve you again. Have a safe flight!"," हमारे पास आने के लिए धन्यवाद, मैं फिर से आपकी सेवा करना चाहता हूं। एक सुरक्षित उड़ान की कामना करते हैं!",3,2
+"Thank you! The seat number allotted to you is 25A. It's a window seat.
+", आपको धन्यवाद! आपको आवंटित सीट संख्या 25A है। यह एक विंडो सीट है।,3,0
+WINDOW SEAT, विंडो सीट,0,0
+okay sure thanks for informations, ठीक है ज़रूर जानकारी के लिए धन्यवाद,3,2
+"Sure, we are here to assist you in the best possible way! May I know your last name please?"," ज़रूर, हम आपकी हर संभव मदद करने के लिए यहाँ हैं! क्या मैं आपका अंतिम नाम जान सकता हूँ?",3,0
+sure., ज़रूर।,2,0
+Fantastuc! The boarding pass will be sent to the email address or phone number shortly., शानदार! बोर्डिंग पास शीघ्र ही ईमेल पते या फोन नंबर पर भेज दिया जाएगा।,2,2
+No, नहीं,1,0
+"You're welcome, Would there be anything else I may help you with?","आपका स्वागत है, क्या कुछ और होगा जिसमें मैं आपकी मदद कर सकूं?",2,2
+seat assignment, बैठने की जगह का आवंटन,0,0
+NO THANKS," जी नहीं, धन्यवाद",3,1
+My pleasure! Goodbye!, मेरा सौभाग्य! अलविदा!,3,0
+my booking number is ASG34W, मेरा बुकिंग नंबर ASG34W है,1,0
+I Need a middle seat., मुझे बीच की सीट चाहिए।,1,0
+Could you also help me with the booking confirmation number?, क्या आप बुकिंग कन्फर्मेशन नंबर में भी मेरी मदद कर सकते हैं?,3,0
+Hey there! Good morning. You're connected to LMT Airways. How may I help you?, सुनो! सुबह बख़ैर। आप एलएमटी एयरवेज से जुड़े हैं। क्या मेरे द्वारा आपकी कोई सहायता हो सकती है?,3,0
+Hi. I'd like to check my seat assignment., नमस्ते। मैं अपने सीट असाइनमेंट की जांच करना चाहता/चाहती हूं.,3,0
+ok, ठीक है,2,0
+i need to you seeat, मुझे आपकी सीट चाहिए,1,0
+"name is rosy buela and confirmation number is jfo5e9
+", नाम है गुलाबी बुएला और पुष्टिकरण संख्या है jfo5e9,0,0
+I am Tamilarasi K, मैं तमिलरसी कु हूँ,1,0
+yes sure1 i like  to travel economy class, हाँ ज़रूर1 मुझे इकोनॉमी क्लास में यात्रा करना पसंद है,2,2
+hi, नमस्ते,2,0
+ok, ठीक है,2,0
+That would be perfect, ये बिल्कुल सही होगा,1,2
+Absolutely! I'll be glad to help you with it. Please may I know your full name?, बिल्कुल! मुझे इसमें आपकी मदद करने में खुशी होगी। कृपया क्या मैं आपका पूरा नाम जान सकता हूँ?,3,2
+Alright! The flights from Spirit and JetBlue are available. Which one would you prefer?, ठीक है! स्पिरिट और जेटब्लू की उड़ानें उपलब्ध हैं। आप कौन सा पसंद करेंगे?,3,0
+edward@gmail.com, एडवर्ड@gmail.com,0,0
+Awesome! Is there anything else I could help you with?, बहुत बढ़िया! क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूं?,3,2
+OK, ठीक है,2,0
+check my seat assignment, मेरी सीट असाइनमेंट की जाँच करें,2,0
+Are we still connected?, हम अभी भी जुड़े हैं?,1,0
+i want to know my seat no, मुझे अपना सीट नंबर जानना है,2,0
+deliasporer45@yahoo.com, deliasporer45@yahoo.com,2,0
+Okay! I've successfully sent the boarding pass to your phone number., ठीक! मैंने आपके फ़ोन नंबर पर बोर्डिंग पास सफलतापूर्वक भेज दिया है।,3,2
+Thank you for your patience. As per the confirmation number. You're assigned a window seat which is T9. Would you like to make any changes to that?,आपके धैर्य के लिए धन्यवाद। पुष्टिकरण संख्या के अनुसार। आपको एक विंडो सीट दी गई है जो T9 है। क्या आप इसमें कोई बदलाव करना चाहेंगे?,3,2
+"Hello there! Sky high customer services, How may I help you today?
+"," नमस्ते! स्काई हाई कस्टमर सर्विसेज, मैं आज आपकी कैसे मदद कर सकता हूं?",3,0
+i need boarding pass, मुझे बोर्डिंग पास चाहिए,1,0
+I NEED AISLE SEAT SIR, मुझे गलियारे की सीट चाहिए सर,1,0
+hi, नमस्ते,2,0
+yes, हां,2,0
+"Amazing! Thanks for baring with all my questions! I highly appreciate your patience! Give me a moment, I'll have a word with my team."," अद्भुत! मेरे सभी प्रश्नों को रोकने के लिए धन्यवाद! मैं आपके धैर्य की अत्यधिक सराहना करता हूँ! मुझे एक क्षण दो, मैं अपनी टीम के साथ बात करूंगा।",3,2
+okay thank you, ठीक है धन्यवाद,3,2
+yeah good for me could you please send my boarding pass to my number, हाँ मेरे लिए अच्छा है क्या आप कृपया मेरा बोर्डिंग पास मेरे नंबर पर भेज सकते हैं,3,0
+please check my seat assignment, कृपया मेरे सीट असाइनमेंट की जांच करें,3,0
+Jilly Jacob, जीली जैकब,0,0
+Sure. When do you want to fly?, ज़रूर। आप कब उड़ना चाहते हैं?,2,0
+Good morning, सुबह बख़ैर,3,2
+"Perfect! Thank you for that. Could you please allow me a moment, while I get this done for you?"," उत्तम! उसके लिये आपका धन्यवाद। क्या आप कृपया मुझे एक क्षण की अनुमति दे सकते हैं, जबकि मैं यह आपके लिए करवाता हूं?",3,2
+Great! And your email address would be?, महान! और आपका ईमेल पता होगा?,3,2
+Hello! Good morning. You've reached LMT Airways. How may I assist you today?, नमस्ते! सुबह बख़ैर। आप एलएमटी एयरवेज पहुंच गए हैं। आज मैं आपकी मदद किस तरह कर सकता हूँ?,3,0
+"Awesome! Thank you for staying connected, I see Mr. Mani you've been assigned to M9 window seat. "," बहुत बढ़िया! जुड़े रहने के लिए धन्यवाद, मैं श्रीमान मणि को देखता हूं, आपको M9 विंडो सीट दी गई है।",3,2
+Alright! Could you also share your booking confirmation number?, ठीक है! क्या आप अपनी बुकिंग पुष्टिकरण संख्या भी साझा कर सकते हैं?,3,0
+I want change middle seat,मुझे बीच की सीट बदलना है,1,0
+Hello! You've been connected to StarAirways customer service! How may I assist you today?, नमस्ते! आप StarAirways ग्राहक सेवा से जुड़ चुके हैं! आज मैं आपकी मदद किस तरह कर सकता हूँ?,3,0
+"Awesome! now, Could you please help me with the number of passengers as well?"," बहुत बढ़िया! अब, क्या आप कृपया यात्रियों की संख्या के बारे में भी मेरी मदद कर सकते हैं?",3,2
+ok thanks, ठीक है धन्यवाद,3,0
+"My pleasure! It was great assisting you, thanks for choosing our services. Have a safe flight, goodbye.
+"," मेरा सौभाग्य! आपकी सहायता करके बहुत अच्छा लगा, हमारी सेवाओं को चुनने के लिए धन्यवाद। एक सुरक्षित उड़ान लो, अलविदा।",3,2
+i want to know my sent no, मैं अपना भेजा हुआ नंबर जानना चाहता हूँ,2,1
+PKK285, पीकेके285,0,0
+i prefer economy hope it would not exceed more than $300, मुझे अर्थव्यवस्था पसंद है आशा है कि यह $300 . से अधिक नहीं होगी,2,0
+"Sure! May I know your last name?
+", ज़रूर! क्या मैं आपका अंतिम नाम जान सकता हूँ?,2,0
+hi id like to check my seat assignment please, हाय आईडी कृपया मेरे सीट असाइनमेंट की जांच करें,3,0
+no thanks," जी नहीं, धन्यवाद",3,1
+"Hi Drew, good morning. I wanted to check seat assignment for DDO445 and want to change it to a window seat"," हाय ड्रू, गुड मॉर्निंग। मैं DDO445 के लिए सीट असाइनमेंट की जांच करना चाहता था और इसे विंडो सीट में बदलना चाहता था",3,0
+FIVE, पांच,0,0
+I need to change my seat assignment, मुझे अपना सीट असाइनमेंट बदलना है,2,1
+Good Evening!, नमस्ते!,3,2
+Yeah.Sure., हां यकीनन।,2,0
+ji89ij, ji89ij,0,0
+"Yes, it's mballen22@yahoo.com"," हाँ, यह mballen22@yahoo.com है",2,0
+Sahoo and YNE217, साहू और YNE217,0,0
+my name vicky, मेरा नाम विक्की,1,0
+Good morning! You've reached Flamingo customers service. How may I help you today?, सुबह बख़ैर! आप फ्लेमिंगो ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,1
+"Welcome to High flying customer service! You're connected to our customer associate! Good morning! My name is Sam, How may I help you?"," उच्च उड़ान ग्राहक सेवा में आपका स्वागत है! आप हमारे ग्राहक सहयोगी से जुड़े हुए हैं! सुबह बख़ैर! मेरा नाम सैम है, मैं आपकी कैसे मदद कर सकता हूँ?",3,2
+Hello! You've been connected to StarAirwyas. How may I assist you?,नमस्ते! आप StarAirwyas से जुड़ चुके हैं। मैं आपकी कैसे सहायता कर सकता हूँ?,3,0
+Good morning! You've reached Flamingo customers service. How may I help you today?, सुबह बख़ैर! आप फ्लेमिंगो ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,1
+ok thanks, ठीक है धन्यवाद,3,0
+Perfect! You'll soon be receiving a mail with attachment of your boarding passes to the given email address. Anything else I may assist you in?, उत्तम! आपको जल्द ही दिए गए ईमेल पते पर अपने बोर्डिंग पास के अटैचमेंट के साथ एक मेल प्राप्त होगा। कुछ और मैं आपकी सहायता कर सकता हूँ?,2,2
+SUBRAMANI & DES458, सुब्रमणि और डेस458,0,0
+"Fantastic! Here's your seat number J7 which is a window seat, Is that okay for you?"," ज़बरदस्त! ये रहा आपका सीट नंबर J7 जो कि विंडो सीट है, क्या यह आपके लिए ठीक है?",2,2
+okay thank, ठीक है धन्यवाद,3,0
+hello casey, हैलो केसी,3,0
+Sure! I'll help you with that. May i know your last name please?, ज़रूर! मैं इसमें आपकी मदद करूंगा। क्या मैं आपका अंतिम नाम जान सकता हूँ?,3,0
+I'll help you out with that. May I know your full name and the booking confirmation number?, मैं इसमें आपकी मदद करूंगा। क्या मैं आपका पूरा नाम और बुकिंग पुष्टिकरण संख्या जान सकता हूँ?,3,0
+i want your to be under $300, मैं चाहता हूं कि आप $300 . से कम के हों,1,0
+"Hello! You've reached StarAirways customer service, how may I assist you today?"," नमस्ते! आप StarAirways ग्राहक सेवा तक पहुँच चुके हैं, मैं आज आपकी कैसे सहायता कर सकता हूँ?",3,0
+Sure. I'll help you with that. Could you please provide your full name and the booking confirmation number?, ज़रूर। मैं इसमें आपकी मदद करूंगा। क्या आप कृपया अपना पूरा नाम और बुकिंग पुष्टिकरण संख्या प्रदान कर सकते हैं?,3,0
+Okay, ठीक,2,2
+"Sure, also help me with your email address please?"," ज़रूर, कृपया मुझे अपने ईमेल पते में भी मदद करें?",2,0
+SURE..OK..THANKS ALOT, ज़रूर..ठीक है..बहुत बहुत धन्यवाद,3,2
+thank you, धन्यवाद,2,2
+Thank you for waiting. Your patience is greatly appreciated. Your seat number is A6 and it is an aisle. Is there anything else I might help you with?,प्रतीक्षा के लिए धन्यवाद। आपके धैर्य की बहुत सराहना की जाती है। आपकी सीट संख्या A6 है और यह एक गलियारा है। क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूं?,3,2
+"Fantastic! Here's your seat number K17 which is a window seat, Is that okay for you?"," ज़बरदस्त! ये रहा आपकी सीट नंबर K17 जो कि विंडो सीट है, क्या यह आपके लिए ठीक है?",3,2
+no thanks," जी नहीं, धन्यवाद",3,1
+May I know why you want to change the seat even before knowing which seat is allotted to you?," क्या मुझे पता है कि आपको कौन सी सीट आवंटित की गई है, यह जानने से पहले ही आप सीट क्यों बदलना चाहते हैं?",2,1
+You're welcome! Would there be anything else I may assist you with?, आपका स्वागत है! क्या कुछ और होगा जिसमें मैं आपकी सहायता कर सकूं?,3,2
+Thanks Thamana! Please allow me a moment to check the seat details and get back to you., धन्यवाद थमाना! कृपया मुझे सीट के विवरण की जांच करने और आपसे संपर्क करने के लिए कुछ समय दें।,3,0
+aravindh s58i58, अरविंद एस58आई58,0,0
+"Thank You! May I also know the 6 chartered booking confirmation number?
+", धन्यवाद! क्या मैं 6 चार्टर्ड बुकिंग पुष्टिकरण संख्या भी जान सकता हूँ?,3,0
+Also the date of journey please?, कृपया यात्रा की तारीख भी बताएं?,3,0
+PARVATHY0@GMAIL.COM, PARVATHY0@GMAIL.COM,0,0
+no thanks," जी नहीं, धन्यवाद",3,1
+Good bye, अलविदा,3,0
+"Sorry, can you send my boarding pass to that email, please?"," क्षमा करें, क्या आप मेरा बोर्डिंग पास उस ईमेल पर भेज सकते हैं, कृपया?",3,0
+Check my seat assignment and decide to change it, मेरे सीट असाइनमेंट की जांच करें और इसे बदलने का फैसला करें,2,1
+i  went to my sent no, मैं अपने भेजे गए नंबर पर गया,2,1
+"Hello there, how may I assist you today?
+"," नमस्ते, मैं आज आपकी कैसे सहायता कर सकता हूँ?",3,0
+"I really appreciate for your patience, there's L3 (Middle) seat assigned to you. "," मैं वास्तव में आपके धैर्य की सराहना करता हूं, आपको एल3 (मध्य) सीट सौंपी गई है।",3,2
+"Thanks for staying connected, I've checked the details the seat allotted to you is 5D it is a middle row. Is that okay?","जुड़े रहने के लिए धन्यवाद, मैंने विवरण की जांच की है कि आपको आवंटित सीट 5D है, यह एक मध्य पंक्ति है। क्या ये ठीक है?",3,0
+"Thank you Jesse, please give me a minute to proceed further."," धन्यवाद जेसी, कृपया मुझे आगे बढ़ने के लिए एक मिनट दें।",3,0
+thank you., शुक्रिया।,3,2
+"Just to confirm, would you liek to change your seat now? "," बस पुष्टि करने के लिए, क्या आप अभी अपनी सीट बदलना चाहेंगे?",3,0
+ANAND & SDF458, आनंद और एसडीएफ458,0,0
+6 CHARACTERS  WITH BOTH LETTERS AND NUMBERS., 6 अक्षर और संख्या दोनों के साथ।,0,0
+"Jack I'd like to inform you that the booking confirmation number consists of letters and numbers. Hence, could you please check with your number and inform the right one? "," जैक मैं आपको सूचित करना चाहता हूँ कि बुकिंग पुष्टिकरण संख्या में अक्षर और संख्याएँ होती हैं। इसलिए, क्या आप कृपया अपने नंबर से जांच कर सकते हैं और सही सूचना दे सकते हैं?",3,0
+"Fantastic!  Here's your seat number K17 which is a window seat, Is that okay for you?"," ज़बरदस्त! ये रहा आपकी सीट नंबर K17 जो कि विंडो सीट है, क्या यह आपके लिए ठीक है?",2,2
+09-04-2018,09-04-2018,0,0
+Hello!, नमस्ते!,3,0
+hi, नमस्ते,2,0
+Good morning, सुबह बख़ैर,3,2
+"Hello! Welcome to Sky Travel. How may I help you, today?", नमस्ते! स्काई ट्रैवल में आपका स्वागत है। मैं आज आपकी क्या मदद कर सकता हूँ?,3,0
+Perfect! Is there anything else I may help you with?, उत्तम! क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूं?,3,2
+i need a window, मुझे एक खिड़की चाहिए,1,0
+Fantastic! Thank you for reaching out to us. Have a memorable journey. Bye., ज़बरदस्त! हमसे संपर्क की पहल के लिए आपका धन्यवाद। यादगार यात्रा हो। अलविदा।,3,2
+Hello, नमस्ते,2,0
+I'm David, मैं डेविड हूँ,1,0
+are you there, आप वहाँ हैं,1,0
+delhi to dubai, दुबई से दिल्ली,2,0
+chandra sekaran, चंद्र शेखरनी,2,0
+My pleasure. Thank you fro reaching out to us. Good day!, मेरा सौभाग्य। हमसे संपर्क करने के लिए धन्यवाद। अच्छा दिन!,3,2
+X675438,X675438,0,0
+I see that Jet Airways is serving the cheapest flight from Delhi to Dubai. It departs at 7:30AM and arrives at 11:30AM>, मैं देख रहा हूं कि जेट एयरवेज दिल्ली से दुबई के लिए सबसे सस्ती फ्लाइट परोस रहा है। यह सुबह 7:30 बजे निकलती है और 11:30 बजे आती है>,2,0
+hi, नमस्ते,2,0
+I prefer mornings, मुझे सुबह पसंद है,2,0
+Thanks! I'd like to inform you that the boarding pass has been successfully mailed to your email address., धन्यवाद! मैं आपको सूचित करना चाहता हूं कि बोर्डिंग पास सफलतापूर्वक आपके ईमेल पते पर भेज दिया गया है।,3,2
+"For sure! I'll help you with that, could you please help me with your last name and the booking confirmation number?"," पक्का! मैं इसमें आपकी मदद करूंगा, क्या आप कृपया अपने अंतिम नाम और बुकिंग पुष्टिकरण संख्या के साथ मेरी मदद कर सकते हैं?",3,0
+yes, हां,2,0
+Will you help to book a ticket on your airways ?, क्या आप अपने वायुमार्ग पर टिकट बुक करने में मदद करेंगे?,2,0
+"Just for the confirmation, could you please help me with the booking confirmation number again?"," सिर्फ पुष्टि के लिए, क्या आप कृपया मुझे बुकिंग पुष्टिकरण संख्या के साथ फिर से मदद कर सकते हैं?",3,0
+"Yes, I would like to change my seat please"," हाँ, मैं कृपया अपनी सीट बदलना चाहूँगा",3,1
+Fantastic! Thank you for reaching out to us. Have a memorable journey. Bye., ज़बरदस्त! हमसे संपर्क की पहल के लिए आपका धन्यवाद। यादगार यात्रा हो। अलविदा।,3,2
+DB43G5, डीबी43जी5,0,0
+" seat assignment and decide to change it.
+", सीट असाइनमेंट और इसे बदलने का फैसला करें।,0,0
+Alright Lexi! Could you help me with the booking confirmation number please?, ठीक है लेक्सी! क्या आप कृपया बुकिंग पुष्टिकरण संख्या के साथ मेरी मदद कर सकते हैं?,3,0
+NAME NILA, नाम नीला,0,0
+Alexsandro66@ymail.com, एलेक्सेंड्रो66@ymail.com,0,0
+sorry. i use different email id its inba1313@gmai.com. please send me this address., माफ़ करना। मैं अलग ईमेल आईडी का उपयोग करता हूं inba1313@gmai.com। कृपया मुझे यह पता भेजें।,3,0
+Of course! I'd be glad to help you with that. May I know your last name please?, बेशक! मुझे इसमें आपकी मदद करने में खुशी होगी। क्या मैं आपका अंतिम नाम जान सकता हूँ?,3,0
+Nothing else, और कुछ नहीं,2,0
+"Appreciate your patience. Your seat no. is G4 , aisle seat. Anything else you'd like to know?","अपने धैर्य की सराहना। आपकी सीट नं. G4, गलियारे की सीट है। कुछ और जो आप जानना चाहेंगे?",3,2
+ok, ठीक है,2,0
+Anything else I may help you out with?, कुछ और मैं आपकी मदद कर सकता हूं?,2,0
+NO THANKS," जी नहीं, धन्यवाद",3,1
+First class., प्रथम श्रेणी।,0,2
+"You're most welcome, will there be anything else I could help you with?"," आपका बहुत-बहुत स्वागत है, क्या कुछ और होगा जिसमें मैं आपकी मदद कर सकूं?",2,2
+"Sure, may I know your last name please?"," ज़रूर, क्या मैं आपका अंतिम नाम जान सकता हूँ?",3,0
+Awesome! I'd also require your email address., बहुत बढ़िया! मुझे आपके ईमेल पते की भी आवश्यकता होगी।,3,2
+"Awesome, Anthony would you please help me with your booking confirmation number?"," बहुत बढ़िया, एंथनी क्या आप कृपया अपनी बुकिंग पुष्टिकरण संख्या के साथ मेरी मदद करेंगे?",3,2
+Confirmation# P9ERE6, पुष्टि# P9ERE6,0,0
+"Hello! A very good morning, welcome to Indian Emirates. How may I help you today?"," नमस्ते! सुप्रभात, भारतीय अमीरात में आपका स्वागत है। आज मैं आपकी कैसे मदद कर सकता हूँ?",3,2
+james.martin@rediffmail.com, James.martin@rediffmail.com,0,0
+Yes! I'll surely I'd love to change that for you. I'll require your details to access your account. May I know your full name please?, हाँ! मैं निश्चित रूप से इसे आपके लिए बदलना पसंद करूंगा। आपके खाते तक पहुंचने के लिए मुझे आपके विवरण की आवश्यकता होगी। क्या मैं आपका पूरा नाम जान सकता हूँ?,3,0
+"Okay, I'm glad I could help you. Thank you for reaching out to us. good day!"," ठीक है, मुझे खुशी है कि मैं आपकी मदद कर सका। हमसे संपर्क की पहल के लिए आपका धन्यवाद। अच्छा दिन!",3,2
+ok no need, ठीक है कोई ज़रूरत नहीं है,2,0
+THNX, THNX,0,0
+how may I help you?, मैं आपकी मदद कैसे कर सकता हूं?,0,0
+Sure! Could you please help me with the date on which you'd like to travel?," ज़रूर! जिस तारीख को आप यात्रा करना चाहते हैं, क्या आप कृपया मेरी मदद कर सकते हैं?",3,0
+OK THANKS, ठीक है धन्यवाद,3,2
+ok, ठीक है,2,0
+thankyou please sent me my boarding pass, थैंक्यू कृपया मुझे मेरा बोर्डिंग पास भेज दिया,2,0
+"I dont believe so, thanks again!","मुझे विश्वास नहीं है, फिर से धन्यवाद!",3,0
+I'd like an aisle seat please., मुझे गलियारे वाली एक सीट चाहिए।,3,0
+Awesome! Thank you for reaching out to us. Have a memorable journey. Bye., बहुत बढ़िया! हमसे संपर्क की पहल के लिए आपका धन्यवाद। यादगार यात्रा हो। अलविदा।,3,2
+"Awesome! Thanks for choosing us, hope you have a great trip!"," बहुत बढ़िया! हमें चुनने के लिए धन्यवाद, आशा है कि आपकी यात्रा शानदार रही होगी!",3,2
+"Good to hear from you, Ranjith! Could you please help me with the booking confirmation number?"," आपसे सुनकर अच्छा लगा, रंजीत! क्या आप कृपया बुकिंग पुष्टिकरण संख्या के बारे में मेरी सहायता कर सकते हैं?",3,2
+"Thank you Tim, please give me a minute to check the seats assigned to you. "," धन्यवाद टिम, कृपया मुझे आपको सौंपी गई सीटों की जांच करने के लिए एक मिनट दें।",3,0
+"Hello there, how may I assist you today?
+"," नमस्ते, मैं आज आपकी कैसे सहायता कर सकता हूँ?",3,0
+kowsalya, कौसल्या,2,0
+Could you also help me out with your booking confirmation number?, क्या आप अपनी बुकिंग पुष्टिकरण संख्या के बारे में भी मेरी मदद कर सकते हैं?,3,0
+Hello! You've been connected to StarAirways customer service! How may I assist you today?, नमस्ते! आप StarAirways ग्राहक सेवा से जुड़ चुके हैं! आज मैं आपकी मदद किस तरह कर सकता हूँ?,3,0
+hello jesse, नमस्ते जेसी,3,0
+", SSN : 780"," , एसएसएन: 780",0,0
+Hey there! Good morning. You're connected to LMT Airways. How may I help you?, सुनो! सुबह बख़ैर। आप एलएमटी एयरवेज से जुड़े हैं। क्या मेरे द्वारा आपकी कोई सहायता हो सकती है?,3,0
+"Awesome! Thanks for reaching out to us, hope you have a wonderful trip ahead. "," बहुत बढ़िया! हमसे संपर्क करने के लिए धन्यवाद, आशा है कि आपकी आगे की यात्रा शानदार रही होगी।",3,2
+"You're welcome! Thank you for choosing us, wish to serve you again. Have a safe flight!"," आपका स्वागत है! हमें चुनने के लिए धन्यवाद, मैं फिर से आपकी सेवा करना चाहता हूं। एक सुरक्षित उड़ान की कामना करते हैं!",3,2
+Ok sir. Thank you very much., जी महोदय। आपका बहुत बहुत धन्यवाद।,3,2
+I want aisle seat instead of middle seat., मुझे बीच की सीट के बजाय गलियारे की सीट चाहिए।,1,0
+It was a pleasure assisting. Thank you for reaching out to us. Have a great day!, मदद करना एक खुशी की बात थी। हमसे संपर्क की पहल के लिए आपका धन्यवाद। आपका दिन अच्छा रहे!,3,2
+"I'm glad that was helpful, thank you for reaching out to us. Have a great day ahead and happy traveling! "," मुझे खुशी है कि यह मददगार था, हमसे संपर्क करने के लिए धन्यवाद। आगे का दिन अच्छा हो और यात्रा सुखद हो!",3,2
+Okay I'd like to change that to an aisle seat if possible please?," ठीक है, यदि संभव हो तो मैं इसे गलियारे की सीट में बदलना चाहूंगा?",3,0
+It's my pleasure to help you Ramya! Could you please help me with your booking confirmation number?,राम्या की मदद करने में मुझे खुशी है! क्या आप कृपया अपनी बुकिंग पुष्टिकरण संख्या के बारे में मेरी सहायता कर सकते हैं?,3,2
+"Great! Thank you so much for sharing information, Just give me a moment while I go ahead and book tickets for you?"," महान! जानकारी साझा करने के लिए आपका बहुत-बहुत धन्यवाद, बस मुझे एक क्षण दें जब तक कि मैं आगे बढ़ूं और आपके लिए टिकट बुक करूं?",3,2
+ok, ठीक है,2,0
+Awesome! May I know the preferred date you'd like to travel?, बहुत बढ़िया! क्या मैं उस पसंदीदा तारीख को जान सकता हूँ जिस पर आप यात्रा करना चाहते हैं?,3,2
+floyd.buckridge@yahoo.com, floyd.buckridge@yahoo.com,2,0
+Hello! You've been connected to StarAirwyas. I'll send you the boarding pass right away. May I know your full name and booking confirmation number?, नमस्ते! आप StarAirwyas से जुड़ चुके हैं। मैं आपको तुरंत बोर्डिंग पास भेजूंगा। क्या मैं आपका पूरा नाम और बुकिंग पुष्टिकरण संख्या जान सकता हूँ?,3,0
+ok, ठीक है,2,0
+"Amazing! Thanks for being patient, I've check here you seat number is W5 and it is a window seat. If you want to change your seat, I'll do that for you as well. I hope that would be okay?"," अद्भुत! धैर्य रखने के लिए धन्यवाद, मैंने यहां जांच की है कि आपकी सीट संख्या W5 है और यह एक विंडो सीट है। अगर आप अपनी सीट बदलना चाहते हैं, तो मैं आपके लिए भी ऐसा करूंगा। मुझे आशा है कि यह ठीक होगा?",3,2
+ok, ठीक है,2,0
+J634K0, जे634के0,0,0
+"I don't have access to that phone now, could you just send it to me through this chat please?"," मेरे पास अभी उस फोन तक पहुंच नहीं है, क्या आप इसे इस चैट के माध्यम से मुझे भेज सकते हैं?",3,0
+why robin, रॉबिन क्यों,2,0
+"Sure, please help me with your last name and booking confirmation number?"," ज़रूर, कृपया अपने अंतिम नाम और बुकिंग पुष्टिकरण संख्या के बारे में मेरी मदद करें?",3,0
+I ALREADY BOOK A TICKET BUT I WANT TO CHANGE IT, मैं पहले से ही एक टिकट बुक करता हूं लेकिन मैं इसे बदलना चाहता हूं,2,0
+no, नहीं,1,1
+"Thank you! Its my pleasure assisting you, Could you please share your booking confirmation number?","आपको धन्यवाद! मुझे आपकी सहायता करने में खुशी हो रही है, क्या आप कृपया अपनी बुकिंग पुष्टिकरण संख्या साझा कर सकते हैं?",3,2
+You're always welcome! Have a great day ahead and a safe journey! It was a pleasure assisting you., आपका हमेशा स्वागत है! आगे का दिन अच्छा हो और सुरक्षित यात्रा हो! आपकी सहायता करना खुशी की बात थी।,3,2
+"Sure! May I know your last name?
+", ज़रूर! क्या मैं आपका अंतिम नाम जान सकता हूँ?,2,0
+Welcome to PilotAirlines! You're talking to the Customer Executive! How may I help you today?, पायलट एयरलाइंस में आपका स्वागत है! आप ग्राहक कार्यकारी से बात कर रहे हैं! आज मैं आपकी कैसे मदद कर सकता हूँ?,3,0
+"My pleasure!  It was great assisting you, thanks for choosing our services. Have a safe flight, goodbye."," मेरा सौभाग्य! आपकी सहायता करके बहुत अच्छा लगा, हमारी सेवाओं को चुनने के लिए धन्यवाद। एक सुरक्षित उड़ान लो, अलविदा।",3,2
+shri@gmail.com, श्री@gmail.com,0,0
+i want to know my seat, मैं अपनी सीट जानना चाहता हूँ,2,0
+JI3940, जीआई3940,0,0
+Fantastic! The boarding pass will be sent to the phone number shortly., ज़बरदस्त! बोर्डिंग पास शीघ्र ही फोन नंबर पर भेज दिया जाएगा।,2,2
+no thanks," जी नहीं, धन्यवाद",3,1
+Thanks William! I appreciate your effort may I please know your email address to which I could send you the pass?," धन्यवाद विलियम! मैं आपके प्रयास की सराहना करता हूं, क्या मैं कृपया आपका ईमेल पता जान सकता हूं जिस पर मैं आपको पास भेज सकता हूं?",3,2
+my name is prabhu booking confirmation number hfh462, मेरा नाम प्रभु बुकिंग पुष्टिकरण संख्या hfh462 है,1,0
+no thanks," जी नहीं, धन्यवाद",3,1
+"Good news! There's window seat PH4 available for you, will that be fine for you? "," खुशखबरी! आपके लिए विंडो सीट PH4 उपलब्ध है, क्या यह आपके लिए ठीक रहेगा?",3,2
+Thanks! Goodbye!, धन्यवाद! अलविदा!,3,0
+it's ok., कोई बात नहीं।,2,2
+"Yes, thanks.", हाँ धन्यवाद।,3,2
+CHECK MY SEAT, मेरी सीट जांचें,0,0
+GREAT. AND ALSO HELP ME TO KNOW MY SEAT ASSIGNMENT, महान। और मुझे मेरा सीट असाइनमेंट जानने में भी मदद करें,3,2
+"Perfect! Thank you for that Mr.Ram. Could you please allow me for a moment, while I get this done for you?"," उत्तम! इसके लिए धन्यवाद श्री राम। क्या आप कृपया मुझे एक पल के लिए अनुमति दे सकते हैं, जबकि मैं यह आपके लिए करवाता हूं?",3,2
+from chennai to kolkata,चेन्नई से कोलकाता तक,2,0
+Fantastic! Thank you for reaching out to us. Have a great journey. Bye., ज़बरदस्त! हमसे संपर्क की पहल के लिए आपका धन्यवाद। शानदार यात्रा करें। अलविदा।,3,2
+MY LOST NAME LATHA I WILL LIKE TO WINDOW SEAT PLEASE  DO YOU CHANGE FOR ME., मेरा खोया हुआ नाम लता मुझे खिड़की वाली सीट पसंद है कृपया आप मेरे लिए बदलें।,2,0
+It was a pleasure talking with you. Have a great day., आपसे बात करके अच्छा लगा। आपका दिन अच्छा रहे।,2,2
+Thank U Spencer, थैंक यू स्पेंसर,3,2
+Hello!, नमस्ते!,3,0
+Of course! I'd be glad to help you with that. May I know your last name and your booking confirmation number?, बेशक! मुझे इसमें आपकी मदद करने में खुशी होगी। क्या मैं आपका अंतिम नाम और आपकी बुकिंग पुष्टिकरण संख्या जान सकता हूँ?,3,0
+ok, ठीक है,2,0
+hi, नमस्ते,2,0
+Coudl you also help me out with your booking confirmation number?, क्या आप अपनी बुकिंग पुष्टिकरण संख्या के बारे में भी मेरी मदद कर सकते हैं?,2,0
+Thank you! Please do let me know your booking confirmation number ane also the email address to which I should send the boarding pass?, आपको धन्यवाद! कृपया मुझे अपना बुकिंग पुष्टिकरण नंबर और वह ईमेल पता भी बताएं जिस पर मुझे बोर्डिंग पास भेजना चाहिए?,3,0
+Great! I've changed your seat from A9 to D2., महान! मैंने आपकी सीट A9 से D2 में बदल दी है।,3,2
+GE45G6, GE45G6,0,0
+Thanks Viji! May I please know your booking confirmation number?, धन्यवाद विजी! क्या मैं कृपया आपकी बुकिंग पुष्टिकरण संख्या जान सकता हूँ?,3,2
+9c would be great., 9c बहुत अच्छा होगा।,2,2
+"Awesome! Thanks for reaching out to us, hope you have a wonderful trip ahead. "," बहुत बढ़िया! हमसे संपर्क करने के लिए धन्यवाद, आशा है कि आपकी आगे की यात्रा शानदार रही होगी।",3,2
+"You're most welcome, I hope this was helpful and I've answered all your questions?"," आपका बहुत-बहुत स्वागत है, मुझे आशा है कि यह मददगार था और मैंने आपके सभी सवालों का जवाब दे दिया है?",3,2
+How may I help you today?, आज मैं आपकी कैसे मदद कर सकता हूँ?,2,0
+NAME  - KARTIK ARYAN, नाम - कार्तिक आर्यन,0,0
+Sure! I'll be glad to help you. Please may I know your name?, ज़रूर! मुझे आपकी मदद करने में खुशी होगी। कृपया क्या मैं आपका नाम जान सकता हूँ?,3,0
+Thank you for staying connected. As per the confirmation number you're assigned to the seat Y8 which is an aisle seat. Would you like that?,जुड़े रहने के लिए धन्यवाद। पुष्टिकरण संख्या के अनुसार आपको सीट Y8 को सौंपा गया है जो कि एक गलियारा सीट है। क्या तुम वह पसंद करोगी?,3,0
+Hendry.A, हेंड्री.ए,0,0
+Check my seat assignment and decide to change it., मेरे सीट असाइनमेंट की जांच करें और इसे बदलने का फैसला करें।,2,0
+Which date would you prefer?, आप कौन सी तारीख पसंद करेंगे?,3,0
+Thank you so much for reaching out to us. Have a great day!, हमसे संपर्क करने के लिए आपका बहुत-बहुत धन्यवाद। आपका दिन अच्छा रहे!,3,2
+"Definitely, I'll help you with that as well. May I know your email address please?"," निश्चित रूप से, मैं इसमें भी आपकी मदद करूंगा। क्या मैं आपका ईमेल पता कृपया जान सकता हूँ?",3,2
+Please do reach out to us in case of any queries. Have a great day ahead!, कृपया किसी भी प्रश्न के मामले में हमसे संपर्क करें। आगे एक महान दिन हो!,2,2
+THANK YOU SO MUCH, आपका बहुत-बहुत धन्यवाद,3,2
+i want to book a ticket, मुझे टिकट बुक करना है,1,0
+Alright Anthony! Could you help me with the booking confirmation number please?, ठीक है एंथोनी! क्या आप कृपया बुकिंग पुष्टिकरण संख्या के साथ मेरी मदद कर सकते हैं?,3,0
+RAMBA@GMAIL.COM, रंबा@GMAIL.COM,0,0
+Of course! Seat number B9 is a window seat and it is available. Would you like to take that?, बेशक! सीट नंबर बी9 विंडो सीट है और यह उपलब्ध है। क्या आप इसे लेना चाहेंगे?,3,0
+Oh i am sorry, मुझे माफ़ करें,3,0
+"Great! Soon you'll be receiving a mail with the boarding pass attachment and you can download it thorough that, anything else I may help you with?"," महान! जल्द ही आपको बोर्डिंग पास अटैचमेंट के साथ एक मेल प्राप्त होगा और आप इसे पूरी तरह से डाउनलोड कर सकते हैं, और क्या मैं आपकी मदद कर सकता हूं?",3,2
+Of course! I'll help you get that. Could you please help me with your last name and your booking confirmation number?,बेशक! मैं इसे पाने में आपकी मदद करूंगा। क्या आप कृपया अपने अंतिम नाम और अपनी बुकिंग पुष्टिकरण संख्या के साथ मेरी मदद कर सकते हैं?,3,0
+ok bye, चलो बाय,2,0
+Would there be anything else I may help you with?, क्या कुछ और होगा जिसमें मैं आपकी मदद कर सकूं?,2,0
+ok, ठीक है,2,0
+i want to know my seat no, मुझे अपना सीट नंबर जानना है,2,0
+Glad to help you. Please go through this website: www.pilotairlines.com in case of any query and help us help you. Good day!, आपकी मदद करके प्रसन्नता हुई। कृपया इस वेबसाइट को देखें: www.pilotairlines.com किसी भी प्रश्न के मामले में और आपकी सहायता करने में हमारी सहायता करें। अच्छा दिन!,3,2
+OK, ठीक है,2,0
+"Nice to meet you, Arun! Could you please share the booking confirmation number?"," आपसे मिलकर अच्छा लगा, अरुण! क्या आप कृपया बुकिंग पुष्टिकरण संख्या साझा कर सकते हैं?",3,2
+Okay! Would there be anything else I may assist you with?, ठीक! क्या कुछ और होगा जिसमें मैं आपकी सहायता कर सकूं?,2,0
+i want to know my sent no, मैं अपना भेजा हुआ नंबर जानना चाहता हूँ,2,1
+THATS ALL, बस इतना ही,0,0
+September 12 is my preferred date., 12 सितंबर मेरी पसंदीदा तारीख है।,0,0
+"You're most welcome, will there be anything else I may help you with?"," आपका बहुत-बहुत स्वागत है, क्या कुछ और होगा जिसमें मैं आपकी मदद कर सकूं?",3,2
+I'm sorry? I didn't get your query? You mean you want to check your seat assignment and check if it is a window seat because you feel convenient and comfortable?, मुझे माफ़ करें? मुझे आपकी क्वेरी नहीं मिली? आपका मतलब है कि आप अपने सीट असाइनमेंट की जांच करना चाहते हैं और जांचना चाहते हैं कि क्या यह विंडो सीट है क्योंकि आप सुविधाजनक और आरामदायक महसूस करते हैं?,3,1
+Would there be anything else I may assist you with?, क्या कुछ और होगा जिसमें मैं आपकी सहायता कर सकूं?,2,0
+Perfect! Is there anything else I may assist you with?, उत्तम! क्या कुछ और है जिसमें मैं आपकी सहायता कर सकता हूं?,3,2
+Would there be anything else I may help you with?, क्या कुछ और होगा जिसमें मैं आपकी मदद कर सकूं?,2,0
+"Sure, I'll help you get that as well. Could you please share your email address?"," ज़रूर, मैं उसे पाने में भी आपकी मदद करूँगा। क्या आप कृपया अपना ईमेल पता साझा कर सकते हैं?",3,0
+"Good morning! You've reached Alliance Airways Customer service, how may I help you?  "," सुबह बख़ैर! आप एलायंस एयरवेज ग्राहक सेवा तक पहुँच चुके हैं, मैं आपकी कैसे मदद कर सकता हूँ?",3,0
+"Thank you Nirmala, please give me a minute to check the assigned seat for you. "," धन्यवाद निर्मला, कृपया मुझे आपके लिए निर्धारित सीट की जांच करने के लिए एक मिनट दें।",3,0
+OKAY BUT I NEED AISLE SEAT, ठीक है लेकिन मुझे गलियारे की सीट चाहिए,2,0
+Great! May I know the preferred date of your travel?, महान! क्या मैं आपकी यात्रा की पसंदीदा तारीख जान सकता हूँ?,3,2
+Good Evening!, नमस्ते!,3,2
+enough, पर्याप्त,1,0
+"Hello there! Sky high customer services, How may I help you today?","नमस्ते! स्काई हाई कस्टमर सर्विसेज, मैं आज आपकी कैसे मदद कर सकता हूं?",3,0
+Sure! It is available and I've changed your seat from A9 to B6. Would that be all?, ज़रूर! यह उपलब्ध है और मैंने आपकी सीट को A9 से B6 में बदल दिया है। क्या वह सब होगा?,2,0
+"yes, thank you", हाँ धन्यवाद,3,2
+no, नहीं,1,1
+"That's perfect! I've confirmed the seat for you, will there be anything else I could help you with?"," यह बिल्कुल सही है! मैंने आपके लिए सीट पक्की कर ली है, क्या कुछ और होगा जिसमें मैं आपकी मदद कर सकूं?",3,2
+okay sure  5790358180, ठीक है ज़रूर 5790358180,2,0
+Awesome! May I know your mail id or phone number please?, बहुत बढ़िया! क्या मैं आपकी मेल आईडी या फोन नंबर जान सकता हूं?,3,2
+"Sorry for the delay, there is one window seat available and I've confirmed it for you, now your seat number is 12A. Anything else I may help you with?"," देरी के लिए क्षमा करें, एक विंडो सीट उपलब्ध है और मैंने आपके लिए इसकी पुष्टि कर दी है, अब आपकी सीट संख्या 12A है। कुछ और मैं आपकी मदद कर सकता हूँ?",3,0
+"Great! As per your request, I've checked with my resources. You've been allotted window seat and the number is D1. "," महान! आपके अनुरोध के अनुसार, मैंने अपने संसाधनों से जांच की है। आपको विंडो सीट आवंटित की गई है और संख्या D1 है।",3,2
+change my seat, मेरी सीट बदलो,0,0
+Beatriz Porter J834X9, बीट्रिज़ पोर्टर J834X9,0,0
+oh sorry, मुझे माफ करें,2,0
+"Thank you Brown, I'll look upon the seat assigned to you, please allow me a minute to proceed further."," धन्यवाद ब्राउन, मैं आपको दी गई सीट को देखूंगा, कृपया मुझे आगे बढ़ने के लिए एक मिनट का समय दें।",3,0
+my last name prabu and booking number is arf758, मेरा उपनाम प्रभु और बुकिंग संख्या arf758 है,1,0
+Please do reach out to us in case of any queries. Have a great day and a safe journey!, कृपया किसी भी प्रश्न के मामले में हमसे संपर्क करें। आपका दिन शुभ हो और सुरक्षित यात्रा हो!,3,2
+yes, हां,2,0
+KASIKA BNH678, कासिका बीएनएच678,0,0
+"Awesome! Thanks for reaching out to us, hope you have a wonderful trip ahead. "," बहुत बढ़िया! हमसे संपर्क करने के लिए धन्यवाद, आशा है कि आपकी आगे की यात्रा शानदार रही होगी।",3,2
+no need,कोई ज़रुरत नहीं है,1,0
+my contact no 9685741534, मेरा संपर्क नंबर 9685741534,1,0
+thank you, धन्यवाद,2,2
+"Perfect! I hope you enjoy the trip! As I've checked with my system here, there is one flight of Jet airways operating on 09/20/2018, The timings are, 6:00 Am to 8:00 Am and it is costing you $170 per head. "," उत्तम! मुझे आशा है कि आप यात्रा का आनंद लेंगे! जैसा कि मैंने यहां अपने सिस्टम से जांच की है, 09/20/2018 को जेट एयरवेज की एक उड़ान चल रही है, समय सुबह 6:00 बजे से 8:00 बजे तक है और इसकी कीमत आपको प्रति व्यक्ति $ 170 है।",3,2
+thiya@gmail.com and 678 544 8790, thiya@gmail.com और 678 544 8790,2,0
+"Awesome! Thank you for that Mr.Kannan. Please allow me for a minute or two, while I get this done for you."," बहुत बढ़िया! इसके लिए धन्यवाद श्री कन्नन। कृपया मुझे एक या दो मिनट के लिए अनुमति दें, जबकि मैं आपके लिए यह कर रहा हूं।",3,2
+Mumbai to chennai, मुंबई से चेन्नई,0,0
+"And, could also please help me with your email address?"," और, कृपया मुझे अपने ईमेल पते में भी मदद कर सकते हैं?",3,0
+vihar, विहार,0,0
+"Nothing else, Thank you for your Booking. Have a nice day to chat with you. "," और कुछ नहीं, आपकी बुकिंग के लिए धन्यवाद। आपके साथ चैट करने के लिए एक अच्छा दिन है।",3,0
+the exact date I'm flexible on, सटीक तिथि जिस पर मैं लचीला हूँ,1,0
+uyh675, उइह675,0,0
+Hello! Good morning. You've reached LMT Airways. How may I assist you today?, नमस्ते! सुबह बख़ैर। आप एलएमटी एयरवेज पहुंच गए हैं। आज मैं आपकी मदद किस तरह कर सकता हूँ?,3,0
+I Want To Know Seat Number, मुझे सीट नंबर जानना है,1,0
+Hello! You've been connected to StarAirways customer service! How may I assist you today?, नमस्ते! आप StarAirways ग्राहक सेवा से जुड़ चुके हैं! आज मैं आपकी मदद किस तरह कर सकता हूँ?,3,0
+Great! Is there anything else that I may help you with?, महान! क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूं?,3,2
+Im hoping I can check my seat assignment, मुझे उम्मीद है कि मैं अपने सीट असाइनमेंट की जांच कर सकता हूं,2,0
+"Yes, I'll but you'll have to have little patience sir! "," हाँ, मैं करूँगा लेकिन आपको थोड़ा सब्र रखना होगा सर!",2,1
+Superb! Your seat number is A6 and it is a window seat. Is there anything else that I may help you with?, शानदार! आपकी सीट का नंबर A6 है और यह विंडो सीट है। क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूं?,3,2
+Goodbye!, अलविदा!,2,0
+Ok, ठीक,2,0
+frankie12@bmail.com, frankie12@bmail.com,2,0
+"You're welcome, is there anything else I could help you with?","आपका स्वागत है, क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूँ?",3,2
+"Dear user, I'd request you to please read the guidelines carefully and then respond accordingly. For now, I have to close this chat as the responses are not as per the guidelines. If you still need my assistance you can anytime raise a chat. Goodbye! "," प्रिय उपयोगकर्ता, मेरा आपसे अनुरोध है कि कृपया दिशा-निर्देशों को ध्यान से पढ़ें और फिर तदनुसार प्रतिक्रिया दें। अभी के लिए, मुझे इस चैट को बंद करना होगा क्योंकि प्रतिक्रियाएँ दिशानिर्देशों के अनुसार नहीं हैं। अगर आपको अभी भी मेरी सहायता की आवश्यकता है तो आप कभी भी चैट कर सकते हैं। अलविदा!",3,1
+Cool! Please allow me a moment while I check the seat that has been allotted to you., ठंडा! कृपया मुझे एक क्षण की अनुमति दें जब तक कि मैं आपको आवंटित सीट की जांच कर लूं।,3,0
+"Thank you for staying connected, there's KL 56 (Middle) seat assigned to you. "," जुड़े रहने के लिए धन्यवाद, आपको केएल 56 (मध्य) सीट सौंपी गई है।",3,0
+nallathamboi, नल्लाथाम्बोई,0,0
+"Good morning! You've reached Alliance Airlines Customer service, how may I help you?  "," सुबह बख़ैर! आप एलायंस एयरलाइंस ग्राहक सेवा तक पहुँच चुके हैं, मैं आपकी कैसे मदद कर सकता हूँ?",3,0
+ok three of the memebers, ठीक है तीन सदस्य,2,0
+Okay! May I know the number of members travelling?, ठीक! क्या मैं यात्रा करने वाले सदस्यों की संख्या जान सकता हूँ?,2,0
+"Sorry to keep you waiting, there is 1 window seat available and I've confirmed it for you, your seat number now is 3D. Anything else I may help you in?"," आपको प्रतीक्षा करने के लिए क्षमा करें, 1 विंडो सीट उपलब्ध है और मैंने आपके लिए इसकी पुष्टि कर दी है, आपकी सीट संख्या अब 3D है। कुछ और मैं आपकी मदद कर सकता हूँ?",3,1
+Okay, ठीक,2,0
+I apologize. It has been reserved. Seats from B5 are available. Would you like to have a seat after that?, मैं क्षमाप्रार्थी हूं। इसे आरक्षित कर दिया गया है। B5 से सीटें उपलब्ध हैं। क्या आप उसके बाद सीट लेना चाहेंगे?,3,0
+"Awesome! Here's what I've done as per your request Mr. Rakheeb, I changed your seat to middle and your new seat number will be A41. Hope that will be comfortable for you.","बहुत बढ़िया! यहाँ मैंने आपके अनुरोध के अनुसार क्या किया है मिस्टर राखीब, मैंने आपकी सीट को बीच में बदल दिया है और आपकी नई सीट संख्या A41 होगी। आशा है कि यह आपके लिए सुविधाजनक होगा।",3,2
+JL23, जेएल23,0,0
+"Yes, ok try 8K6R66"," हाँ, ठीक है 8K6R66 आज़माएं",2,0
+seat assignment, बैठने की जगह का आवंटन,0,0
+Fantastic! Please give me a moment to check., ज़बरदस्त! कृपया मुझे जांचने के लिए एक क्षण दें।,3,2
+I'm sorry but I cannot help you out with the booking of international flights. But I can help you out with the booking of domestic flights which is from one state to another.," मुझे खेद है, लेकिन मैं अंतरराष्ट्रीय उड़ानों की बुकिंग में आपकी मदद नहीं कर सकता। लेकिन मैं घरेलू उड़ानों की बुकिंग में आपकी मदद कर सकता हूं जो एक राज्य से दूसरे राज्य के लिए है।",3,1
+You're always welcome! Please do reach out to us in case of any queries. Have a great day and a safe journey!, आपका हमेशा स्वागत है! कृपया किसी भी प्रश्न के मामले में हमसे संपर्क करें। आपका दिन शुभ हो और सुरक्षित यात्रा हो!,3,2
+nothing else, और कुछ नहीं,1,0
+YES, हां,2,2
+"no,nice to chat with you."," नहीं, आपसे चैट करके अच्छा लगा।",1,0
+"Awesome! Thanks for reaching out to us, hope you have a wonderful trip ahead. "," बहुत बढ़िया! हमसे संपर्क करने के लिए धन्यवाद, आशा है कि आपकी आगे की यात्रा शानदार रही होगी।",3,2
+prathik057@gmail.com, prathik057@gmail.com,2,0
+HI, नमस्ते,2,0
+i want front seat, मुझे आगे की सीट चाहिए,1,0
+"Sure! May I know your last name?
+", ज़रूर! क्या मैं आपका अंतिम नाम जान सकता हूँ?,2,0
+You're always welcome! Have a great day ahead and a safe journey! It was a pleasure assisting you., आपका हमेशा स्वागत है! आगे का दिन अच्छा हो और सुरक्षित यात्रा हो! आपकी सहायता करना खुशी की बात थी।,3,2
+K1W9X7, K1W9X7,0,0
+Alright! Please allow me a moment to check if there is any seat available., ठीक है! कृपया मुझे यह जांचने के लिए एक क्षण दें कि क्या कोई सीट उपलब्ध है।,2,0
+I am in need to know my seating arrangement in my coming trip.Could you help me with it?, मुझे अपनी आने वाली यात्रा में अपने बैठने की व्यवस्था जानने की ज़रूरत है।क्या आप इसमें मेरी मदद कर सकते हैं?,3,0
+Okay, ठीक,2,2
+I'll let you about that. May I know your booking confirmation number?, मैं आपको इसके बारे में बताता हूँ। क्या मैं आपकी बुकिंग पुष्टिकरण संख्या जान सकता हूँ?,3,0
+sekaran, सेकरानी,2,0
+NO THANKS," जी नहीं, धन्यवाद",3,1
+Glad to help you today. Please go through this website: www.pilotairlines.com in case of any query and help us help you. Good day!, आज आपकी मदद करके खुशी हुई। कृपया इस वेबसाइट को देखें: www.pilotairlines.com किसी भी प्रश्न के मामले में और आपकी सहायता करने में हमारी सहायता करें। अच्छा दिन!,3,2
+Hi, नमस्ते,2,0
+Check my seat assignment and decide to change it., मेरे सीट असाइनमेंट की जांच करें और इसे बदलने का फैसला करें।,2,0
+Alright! I've confirmed the seat P3 for you. Could you please help me with your email address?,ठीक है! मैंने आपके लिए P3 सीट की पुष्टि कर दी है। क्या आप कृपया मुझे अपने ईमेल पते में मदद कर सकते हैं?,3,0
+CHENNAI, चेन्नई,0,0
+i want to book a ticket in flight, मुझे फ्लाइट में टिकट बुक करना है,1,0
+I want check my seat assignment, मुझे अपना सीट असाइनमेंट चेक करना है,2,0
+You're always welcome! Please do reach out to us in case of any queries. Have a great day and a safe journey!, आपका हमेशा स्वागत है! कृपया किसी भी प्रश्न के मामले में हमसे संपर्क करें। आपका दिन शुभ हो और सुरक्षित यात्रा हो!,3,2
+"Surely, that can be done. Skyline and spicehut are available at the moment."," निश्चय ही, ऐसा किया जा सकता है। इस समय स्काईलाइन और स्पाइसहट उपलब्ध हैं।",2,0
+"Awesome! Thanks for reaching out to us, hope you have a wonderful trip ahead. "," बहुत बढ़िया! हमसे संपर्क करने के लिए धन्यवाद, आशा है कि आपकी आगे की यात्रा शानदार रही होगी।",3,2
+My email address is havocmano11@gmail.com, मेरा ईमेल पता है कहरमैनो11@gmail.com,1,0
+NAME - KARTIK, नाम - कार्तिक,0,0
+OK, ठीक है,2,0
+"May I know your phone number to process the request.
+", क्या मैं अनुरोध को संसाधित करने के लिए आपका फ़ोन नंबर जान सकता हूँ।,2,0
+Hi, नमस्ते,2,0
+confirmation number dl34k3, पुष्टिकरण संख्या dl34k3,2,0
+hi, नमस्ते,2,0
+jacks, जैक,2,0
+9874563014,9874563014,0,0
+no thanks," जी नहीं, धन्यवाद",3,1
+Muthu could you also help me out with your phone number or email address for the boarding pass to be sent to you?, मुथु क्या आप मुझे बोर्डिंग पास भेजने के लिए अपने फोन नंबर या ईमेल पते के साथ मेरी मदद कर सकते हैं?,3,0
+Thanks! I'd like to inform you that the boarding pass has been sent to your phone number and email address., धन्यवाद! मैं आपको सूचित करना चाहता हूं कि बोर्डिंग पास आपके फोन नंबर और ईमेल पते पर भेज दिया गया है।,3,0
+I need to change my seat, मुझे अपनी सीट बदलनी है,2,1
+Sorry for inconvenience.Kindly confirm my original seat., असुविधा के लिए खेद है। कृपया मेरी मूल सीट की पुष्टि करें।,3,0
+hai, हाय,2,0
+"I really appreciate for your patience, there's L3 (Aisle) seat assigned to you. "," मैं वास्तव में आपके धैर्य की सराहना करता हूं, आपको एल3 (आइज़ल) सीट सौंपी गई है।",3,2
+jessly, jessly,0,0
+Hello., नमस्ते।,3,0
+Francis morris, फ्रांसिस मॉरिस,0,0
+"Alright! It was great assisting you, thanks for choosing our services. Have a safe flight, goodbye."," ठीक है! आपकी सहायता करके बहुत अच्छा लगा, हमारी सेवाओं को चुनने के लिए धन्यवाद। एक सुरक्षित उड़ान लो, अलविदा।",3,2
+karigal, करिगाली,2,0
+"Perfect! Thank you for sharing your details, Just allow me a moment I'll go ahead and check your seat assignment.","उत्तम! अपना विवरण साझा करने के लिए धन्यवाद, बस मुझे एक क्षण दें मैं आगे जाकर आपके सीट असाइनमेंट की जांच करूंगा।",3,2
+You're welcome! Would there be anything else I may assist you with?, आपका स्वागत है! क्या कुछ और होगा जिसमें मैं आपकी सहायता कर सकूं?,3,2
+hi, नमस्ते,2,0
+check my seat assignment, मेरी सीट असाइनमेंट की जाँच करें,2,0
+i prefer economy hope it would not exceed more than $300, मुझे अर्थव्यवस्था पसंद है आशा है कि यह $300 . से अधिक नहीं होगी,2,0
+I need to know about My seat assignmen, मुझे अपने सीट असाइनमेंट के बारे में जानने की जरूरत है,2,0
+OK, ठीक है,2,0
+I need to check my seat assignment, मुझे अपने सीट असाइनमेंट की जांच करनी है,2,0
+"I really appreciate for your patience, there's L3 (Middle) seat assigned to you. "," मैं वास्तव में आपके धैर्य की सराहना करता हूं, आपको एल3 (मध्य) सीट सौंपी गई है।",3,2
+seat*, सीट*,0,0
+Awesome! May I know which seat would you prefer? (aisle/middle/window), बहुत बढ़िया! क्या मैं जान सकता हूँ कि आप कौन सी सीट पसंद करेंगे? (गलियारा/मध्य/खिड़की),3,2
+Would you like to change your seat?, क्या आप अपनी सीट बदलना चाहेंगे?,3,0
+i want to know seat number, मुझे सीट नंबर जानना है,1,0
+"Thank you Ibrahim, would you prefer window seat, middle seat or aisle seat?"," धन्यवाद इब्राहिम, क्या आप विंडो सीट, बीच वाली सीट या गलियारे वाली सीट पसंद करेंगे?",3,0
+ok bye, चलो बाय,2,0
+Okay! Would there be anything else I may assist you with?, ठीक! क्या कुछ और होगा जिसमें मैं आपकी सहायता कर सकूं?,2,0
+"Surely, please help me with your mail id or phone number."," ज़रूर, कृपया अपनी मेल आईडी या फोन नंबर के साथ मेरी मदद करें।",3,0
+All right! I hope I've answered all your queries?, ठीक है! मुझे आशा है कि मैंने आपके सभी प्रश्नों का उत्तर दे दिया है?,3,0
+"Tina,jyi797"," टीना, जीई797",0,0
+"Nice to meet you, Kamalkassan! Could you please help me with the booking confirmation number?"," कमलकासन, आपसे मिलकर अच्छा लगा! क्या आप कृपया बुकिंग पुष्टिकरण संख्या के बारे में मेरी सहायता कर सकते हैं?",3,2
+"Sure, it's under John Smith, #Avg658"," ज़रूर, यह जॉन स्मिथ के अधीन है, #Avg658",2,0
+"Nothing else, Thank you for your information. Have a nice day to chat with you. "," और कुछ नहीं, आपकी जानकारी के लिए धन्यवाद। आपके साथ चैट करने के लिए एक अच्छा दिन है।",3,0
+HI, नमस्ते,2,0
+Hello! You've been connected to StarAirwyas. How may I assist you?,नमस्ते! आप StarAirwyas से जुड़ चुके हैं। मैं आपकी कैसे सहायता कर सकता हूँ?,3,0
+mugar, मुगरी,0,0
+NO THANKS," जी नहीं, धन्यवाद",3,1
+"Awesome! Sam, Now would you please help me with your booking confirmation number?"," बहुत बढ़िया! सैम, अब क्या आप कृपया अपनी बुकिंग पुष्टिकरण संख्या के साथ मेरी मदद करेंगे?",3,2
+BYEE, अलविदा,2,0
+Hello sir., नमस्ते महोदय।,3,0
+Thanks a ton! Just allow me a moment I'll go ahead and check your seat assignment and let you know in a while.,"अनेक अनेक धन्यवाद! बस मुझे एक क्षण की अनुमति दें, मैं आगे जाकर आपके सीट असाइनमेंट की जांच करूंगा और आपको थोड़ी देर में बता दूंगा।",3,2
+A very good morning! You've reached the Moon Airways customer service. How may I help you today?, एक बहुत अच्छी सुबह! आप मून एयरवेज ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,2
+my name is hentry, मेरा नाम हेंट्री है,1,0
+ok, ठीक है,2,0
+HI, नमस्ते,2,0
+ok thanks, ठीक है धन्यवाद,3,0
+Have a great day, आपका दिन अच्छा रहे,2,2
+My last name is Vincent., मेरा अंतिम नाम विन्सेंट है।,1,0
+"Amazing! Thanks for being patient, I've check here you seat number is W1 and it is a window seat. If you want to change your seat, I'll do that for you as well. I hope that would be okay?"," अद्भुत! धैर्य रखने के लिए धन्यवाद, मैंने यहां जांच की है कि आपकी सीट संख्या W1 है और यह एक विंडो सीट है। अगर आप अपनी सीट बदलना चाहते हैं, तो मैं आपके लिए भी ऐसा करूंगा। मुझे आशा है कि यह ठीक होगा?",3,2
+Khan, KHAN,0,0
+"ok, "," ठीक है,",2,0
+no I do not. thank you," नहीं, मैं नहीं। धन्यवाद",3,0
+Sure! I'll help you with that. May I know your last name please?, ज़रूर! मैं इसमें आपकी मदद करूंगा। क्या मैं आपका अंतिम नाम जान सकता हूँ?,3,0
+Booking confirmation number R2CT65, बुकिंग पुष्टिकरण संख्या R2CT65,2,0
+Would you want me to book any flight for you?, क्या आप चाहते हैं कि मैं आपके लिए कोई फ्लाइट बुक करूं?,3,0
+"Sure! I'll be able to help you in knowing your seat arrangement, may I please know your last name and the booking confirmation number?"," ज़रूर! मैं आपकी सीट की व्यवस्था जानने में आपकी मदद कर सकता हूँ, क्या मैं आपका अंतिम नाम और बुकिंग पुष्टिकरण संख्या जान सकता हूँ?",3,0
+"Wonderful! Well Mr.West , your booking as been confirmed and your seat number is K12 which is a window seat, Is that okay for you?
+"," अद्भुत! ठीक है मिस्टर वेस्ट, आपकी बुकिंग कन्फर्म हो गई है और आपकी सीट संख्या K12 है जो एक विंडो सीट है, क्या यह आपके लिए ठीक है?",3,2
+"Good morning! You've reached Alliance Airways Customer service, how may I help you?  "," सुबह बख़ैर! आप एलायंस एयरवेज ग्राहक सेवा तक पहुँच चुके हैं, मैं आपकी कैसे मदद कर सकता हूँ?",3,0
+i want to change my seat. i like to middle seat. could you arrange me?, मैं अपनी सीट बदलना चाहता हूं। मुझे बीच की सीट पसंद है। क्या तुम मुझे व्यवस्थित कर सकते हो?,3,0
+Surely! I'll be happy to help you in this regard. May I know your last name and your booking confirmation number?,निश्चित रूप से! मुझे इस संबंध में आपकी मदद करने में खुशी होगी। क्या मैं आपका अंतिम नाम और आपकी बुकिंग पुष्टिकरण संख्या जान सकता हूँ?,3,2
+Glad to help you today. Please go through this website: www.pilotairlines.com in case of any query and help us help you. Good day!, आज आपकी मदद करके खुशी हुई। कृपया इस वेबसाइट को देखें: www.pilotairlines.com किसी भी प्रश्न के मामले में और आपकी सहायता करने में हमारी सहायता करें। अच्छा दिन!,3,2
+29-08-2018,29-08-2018,0,0
+good morning, शुभ प्रभात,2,2
+"Hello there, how may I assist you today?
+"," नमस्ते, मैं आज आपकी कैसे सहायता कर सकता हूँ?",3,0
+"Thank you for visiting us, wish to serve you again. Have a safe journey!"," हमारे पास आने के लिए धन्यवाद, मैं फिर से आपकी सेवा करना चाहता हूं। आपकी यात्रा सुरक्षित हो!",3,2
+OKAY THANK YOU, ठीक है धन्यवाद,3,2
+I need to know about my seat assignment, मुझे अपने सीट असाइनमेंट के बारे में जानने की जरूरत है,2,0
+I'm so glad I could resolve all your queries for today! I hope you have an amazing time on the flight! Have a great day ahead! Goodbye., मुझे बहुत खुशी है कि मैं आज के लिए आपके सभी प्रश्नों का समाधान कर सका! मुझे आशा है कि आपके पास उड़ान पर एक अद्भुत समय होगा! आगे एक महान दिन हो! अलविदा।,3,2
+no thanks," जी नहीं, धन्यवाद",3,1
+All right. Please do contact us for further queries. Have a good day. Bye., ठीक है। कृपया अधिक प्रश्नों के लिए हमसे संपर्क करें। आपका दिन शुभ हो। अलविदा।,3,0
+JOSHY BIL EMAIL: JOSHY78@GMAIL.COM, जोशी बिल ईमेल: JOSHY78@GMAIL.COM,0,0
+Hello. Welcome to Divehigh Airways. How may I help you?, नमस्ते। डाइवहाई एयरवेज में आपका स्वागत है। क्या मेरे द्वारा आपकी कोई सहायता हो सकती है?,3,0
+Thank you so much., बहुत-बहुत धन्यवाद।,3,2
+jessy, जेसी,0,0
+Sure, ज़रूर,2,0
+"okay, no "," ठीक है, नहीं",2,0
+"Sure, may I know your last name please?"," ज़रूर, क्या मैं आपका अंतिम नाम जान सकता हूँ?",3,0
+Superb! Would you mind sharing the number of passengers also?, शानदार! क्या आप यात्रियों की संख्या भी साझा करना चाहेंगे?,3,2
+okay, ठीक है,2,0
+no, नहीं,1,1
+Hello! You've been connected to StarAirways customer service! How may I assist you today?, नमस्ते! आप StarAirways ग्राहक सेवा से जुड़ चुके हैं! आज मैं आपकी मदद किस तरह कर सकता हूँ?,3,0
+Jfv759, जेएफवी759,0,0
+need to change my as window..can u?, मुझे विंडो के रूप में बदलने की आवश्यकता है..क्या आप कर सकते हैं?,1,0
+"Hello, you've reached Sky Travels. How may I help you today?"," नमस्कार, आप स्काई ट्रेवल्स में पहुंच गए हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?",3,0
+"Perfect! Thank you so much for sharing that information, Just allow me a minute I'll go ahead and check that for you."," उत्तम! उस जानकारी को साझा करने के लिए आपका बहुत-बहुत धन्यवाद, बस मुझे एक मिनट का समय दें, मैं आगे बढ़ूंगा और आपके लिए इसकी जांच करूंगा।",3,2
+no thank you very much,नहीं बहुत बहुत धन्यवाद,3,1
+i want check my seat assignment, मुझे अपना सीट असाइनमेंट चेक करना है,2,0
+Hi!, नमस्ते!,3,0
+"Thanks you so much for giving me that details, I'd request you to please be conversational, we know your familiar with the questions. It's a humble request try to be as conversational as you can."," मुझे वह विवरण देने के लिए आपका बहुत-बहुत धन्यवाद, मैं आपसे अनुरोध करता हूं कि कृपया संवादी बनें, हम जानते हैं कि आप प्रश्नों से परिचित हैं। यह एक विनम्र अनुरोध है कि जितना हो सके संवादी बनने की कोशिश करें।",3,2
+"Alright! Could you please confirm if its a non-stop flight, also please tell me how many on board for that day?"," ठीक है! क्या आप कृपया पुष्टि कर सकते हैं कि क्या यह एक नॉन-स्टॉप उड़ान है, कृपया मुझे यह भी बताएं कि उस दिन कितने लोग सवार थे?",3,0
+Of course! May I know your last name please?, बेशक! क्या मैं आपका अंतिम नाम जान सकता हूँ?,3,0
+i want change seat.. which series was un reserved, मुझे सीट चेंज करनी है.. कौन सी सीरीज अनारक्षित थी,2,1
+"Thank you,  may I know your last name?"," धन्यवाद, क्या मैं आपका अंतिम नाम जान सकता हूँ?",3,0
+STELLA RYA, स्टेला रिया,0,0
+Victor, विजेता,0,0
+I want you to change my seat assignment, मैं चाहता हूं कि आप मेरा सीट असाइनमेंट बदल दें,3,1
+hi, नमस्ते,2,0
+"Awesome! I've confirmed the seat, could you please help me with the email address or phone number to sent the confirmation link? "," बहुत बढ़िया! मैंने सीट की पुष्टि कर दी है, क्या आप पुष्टिकरण लिंक भेजने के लिए ईमेल पते या फोन नंबर के साथ मेरी मदद कर सकते हैं?",3,2
+"Sure, we are here to assist you always! May I know your last name please?"," ज़रूर, हम यहाँ हमेशा आपकी सहायता के लिए हैं! क्या मैं आपका अंतिम नाम जान सकता हूँ?",3,0
+"Nothing else, Thank you for your Booking. Have a nice day to chat with you. "," और कुछ नहीं, आपकी बुकिंग के लिए धन्यवाद। आपके साथ चैट करने के लिए एक अच्छा दिन है।",3,0
+OK, ठीक है,2,0
+jhg587, जेएचजी587,0,0
+"Sure, may I know your last name please?"," ज़रूर, क्या मैं आपका अंतिम नाम जान सकता हूँ?",3,0
+"Your seat no. is 15 A, middle seat. Please let me know your preference?"," आपकी सीट नं. 15 ए, मध्य सीट है। कृपया मुझे अपनी पसंद बताएं?",2,0
+f56k78, f56k78,2,0
+OH. BUT I WOULD LIKE TO CHANGE IT INO AISLE, ओह। लेकिन मैं इसे AISLE . में बदलना चाहूंगा,1,0
+THAT'S NOT OKAY FOR MINE,यह मेरे लिए ठीक नहीं है,2,1
+I don't remember it, मुझे यह याद नहीं है,1,0
+"Awesome! Thanks for reaching out to us, hope you have a wonderful trip ahead. "," बहुत बढ़िया! हमसे संपर्क करने के लिए धन्यवाद, आशा है कि आपकी आगे की यात्रा शानदार रही होगी।",3,2
+"Alright! Sure, I'd love to help you! I'll certainly share your boarding pass with you. May I know your full name please?"," ठीक है! ज़रूर, मुझे आपकी मदद करना अच्छा लगेगा! मैं आपका बोर्डिंग पास निश्चित रूप से आपके साथ साझा करूंगा। क्या मैं आपका पूरा नाम जान सकता हूँ?",3,0
+I NEED A BOARDING PASS, मुझे एक बोर्डिंग पास चाहिए,1,0
+WILL YOU DO ME ONE MORE FAVOUR, क्या आप मेरा एक और उपकार करेंगे,3,2
+"Awesome! Thank you for staying connected, I see Mr. Vikram you've been assigned to M9 window seat. "," बहुत बढ़िया! जुड़े रहने के लिए धन्यवाद, मैं देख रहा हूं कि श्रीमान विक्रम आपको M9 विंडो सीट पर नियुक्त किया गया है।",3,2
+Okay!, ठीक!,2,0
+DAISY, डेज़ी,0,0
+"Fantastic! As preferred by you, I've changed your seat to A3."," ज़बरदस्त! आपकी पसंद के अनुसार, मैंने आपकी सीट को A3 में बदल दिया है।",2,2
+You're welcome. Please do visit us again for further queries. Have a good day. Bye now., आपका स्वागत है। कृपया आगे के प्रश्नों के लिए हमें फिर से देखें। आपका दिन शुभ हो। अलविदा।,2,2
+ok thanks, ठीक है धन्यवाद,3,0
+yes, हां,2,0
+Booking confirmation number C6RT41, बुकिंग पुष्टिकरण संख्या C6RT41,2,0
+That's superb..Please confirm it, यह शानदार है..कृपया इसकी पुष्टि करें,3,2
+Fantastic! Thank you for reaching out to us. Have a memorable journey. Bye., ज़बरदस्त! हमसे संपर्क की पहल के लिए आपका धन्यवाद। यादगार यात्रा हो। अलविदा।,3,2
+"Thank you for reaching out to us, it's a pleasure assisting you. Have a great day and happy traveling!"," हमसे संपर्क करने के लिए धन्यवाद, आपकी सहायता करना खुशी की बात है। आपका दिन शुभ हो और यात्रा सुखद हो!",3,2
+my last name is selvam, मेरा अंतिम नाम सेल्वम है,1,0
+"As I've checked with the resources, I see that the seat allotted to you is the aisle seat which is F1."," जैसा कि मैंने संसाधनों के साथ जाँच की है, मैं देखता हूँ कि आपको आवंटित सीट गलियारे की सीट है जो F1 है।",2,0
+Thank you for staying on hold. I appreciate your patience. Your seat number is A9 and it is a window seat. Is there anything else that I may help you with?,रुके रहने के लिए धन्यवाद। मैं आपके धैर्य की सराहना करता हूँ। आपकी सीट का नंबर A9 है और यह विंडो सीट है। क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूं?,3,2
+sure.. thanks a lot.. bye, ज़रूर.. बहुत बहुत धन्यवाद.. अलविदा,3,2
+i want to know my seat no, मुझे अपना सीट नंबर जानना है,2,0
+"Sure! For the boarding pass, I'd require your phone number or email address. Could you please help me with that?"," ज़रूर! बोर्डिंग पास के लिए, मुझे आपका फ़ोन नंबर या ईमेल पता चाहिए। क्या आप कृपया इसमें मेरी मदद कर सकते हैं?",3,0
+"Sure, could you please help me with your departure city and the destination?"," ज़रूर, क्या आप कृपया अपने प्रस्थान शहर और गंतव्य के बारे में मेरी मदद कर सकते हैं?",3,0
+karthiga, कार्थिगा,2,0
+CONFIRMATION NUMBER : moh523, पुष्टि संख्या: moh523,1,0
+morning, प्रभात,2,0
+SURE, ज़रूर,2,0
+Greg Tim, ग्रेग टिम,0,0
+Fantastic! Your tickets have been confirmed and you'll be receiving a confirmation mail with the link to make the payment. Is there anything else I might help you with?, ज़बरदस्त! आपके टिकटों की पुष्टि हो गई है और आपको भुगतान करने के लिए लिंक के साथ एक पुष्टिकरण मेल प्राप्त होगा। क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूं?,3,2
+Awesome! Your details have been verified. May I know the your mail id or phone number?, बहुत बढ़िया! आपके विवरण सत्यापित कर दिए गए हैं। क्या मैं आपकी मेल आईडी या फोन नंबर जान सकता हूं?,3,2
+thank you for your help, आपके सहयोग के लिए धन्यवाद,3,2
+CHANGE TO WINDOW, विंडो में बदलें,0,0
+My booking confirmation number is F8162T., मेरी बुकिंग पुष्टिकरण संख्या F8162T है।,1,0
+ok thank you, ठीक है धन्यवाद,3,0
+"You're welcome, Is there anything else I may help you with?"," आपका स्वागत है, क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूँ?",2,2
+On which name would you like to book the tickets? And also please provide the email address?,आप किस नाम से टिकट बुक करना चाहेंगे? और कृपया ईमेल पता भी प्रदान करें?,3,0
+Alright! I've confirmed the booking and have sent you a confirmation email where you can pay for the tickets and get a copy of the tickets. I hope this helps., ठीक है! मैंने बुकिंग की पुष्टि कर दी है और आपको एक पुष्टिकरण ईमेल भेजा है जहां आप टिकटों के लिए भुगतान कर सकते हैं और टिकटों की एक प्रति प्राप्त कर सकते हैं। आशा है कि ये आपकी मदद करेगा।,3,2
+OK, ठीक है,2,0
+first class, प्रथम श्रेणी,0,2
+company, कंपनी,0,0
+i have second option is okay, मेरे पास दूसरा विकल्प है ठीक है,1,0
+no thanks," जी नहीं, धन्यवाद",3,1
+Perfect! May I know the number of passengers travelling and also on whose name you'd like to make the booking?, उत्तम! क्या मैं यात्रा करने वाले यात्रियों की संख्या जान सकता हूँ और यह भी जान सकता हूँ कि आप किसके नाम से बुकिंग करना चाहते हैं?,3,0
+"Hello there, Good morning! Welcome Airway customer service! I'd be glad to assist you! "," नमस्ते वहाँ, सुप्रभात! एयरवे ग्राहक सेवा में आपका स्वागत है! मुझे आपकी सहायता करने में खुशी होगी!",3,2
+richardoliver@gmail.com, रिचर्डोलिवर@gmail.com,0,0
+sure, ज़रूर,2,0
+"Hello there! Sky high customer services, How may I help you today?","नमस्ते! स्काई हाई कस्टमर सर्विसेज, मैं आज आपकी कैसे मदद कर सकता हूं?",3,0
+"Nothing else, Thank you for your information. Have a nice day to chat with you. "," और कुछ नहीं, आपकी जानकारी के लिए धन्यवाद। आपके साथ चैट करने के लिए एक अच्छा दिन है।",3,0
+"Sure, may I know your last name please?"," ज़रूर, क्या मैं आपका अंतिम नाम जान सकता हूँ?",3,0
+Thank you  so much Spencer. Hope you have answered all my queries., बहुत बहुत धन्यवाद स्पेंसर। आशा है आपने मेरे सभी प्रश्नों का उत्तर दे दिया होगा।,3,2
+Leo mathews, लियो मैथ्यूज,0,0
+Ok sounds good., हां ठीक लगता है।,2,2
+Alright Smith! Could you please share the booking confirmation number?, ठीक है स्मिथ! क्या आप कृपया बुकिंग पुष्टिकरण संख्या साझा कर सकते हैं?,3,0
+Perfect! I've booked the tickets soon you'll receive a mail with a link through which you can make the payment and confirm your booking. Hope that was useful?, उत्तम! मैंने टिकट बुक कर लिया है जल्द ही आपको एक लिंक के साथ एक मेल प्राप्त होगा जिसके माध्यम से आप भुगतान कर सकते हैं और अपनी बुकिंग की पुष्टि कर सकते हैं। आशा है कि यह उपयोगी था?,3,2
+i want check my seat assignment, मुझे अपना सीट असाइनमेंट चेक करना है,2,0
+take your time, पर्याप्त समय लो,2,0
+A very good morning! You've reached the Moon Airways customer service. How may I help you today?, एक बहुत अच्छी सुबह! आप मून एयरवेज ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,2
+"Awesome! Thanks for choosing us, hope you have a great trip!"," बहुत बढ़िया! हमें चुनने के लिए धन्यवाद, आशा है कि आपकी यात्रा शानदार रही होगी!",3,2
+alvin, एल्विन,0,0
+Awesome! Thank you for giving me all that details! Just give me a moment I'll go ahead and direct my team to help you with your query!,बहुत बढ़िया! मुझे वह सब विवरण देने के लिए धन्यवाद! बस मुझे एक क्षण दें मैं आगे बढ़ूंगा और अपनी टीम को आपकी क्वेरी में मदद करने के लिए निर्देशित करूंगा!,3,2
+VERY NICE, बहुत अच्छा,0,2
+bye, अलविदा,2,0
+can you please change it to aisle seat, क्या आप कृपया इसे गलियारे की सीट में बदल सकते हैं,3,0
+ok..thank you so much.., ठीक है आपका बहुत धन्यवाद..,3,2
+OK..THANK YOU SO MUCH.., ठीक है आपका बहुत धन्यवाद..,3,2
+no thanks," जी नहीं, धन्यवाद",3,1
+My pleasure. Thank you for reaching out to us. Have a great day!, मेरा सौभाग्य। हमसे संपर्क की पहल के लिए आपका धन्यवाद। आपका दिन अच्छा रहे!,3,2
+Yes, हाँ,2,0
+ok, ठीक है,2,0
+"Always a pleasure! Thank you for reaching out to us, it's a pleasure assisting you. Have a great day and happy traveling!"," हमेशा एक खुशी की बात है! हमसे संपर्क करने के लिए धन्यवाद, आपकी सहायता करना खुशी की बात है। आपका दिन शुभ हो और यात्रा सुखद हो!",3,2
+Thank you very much, आपका बहुत बहुत धन्यवाद,3,2
+"Sure, I'll do my best to get you that seat. Please give me a minute."," ज़रूर, मैं आपको वह सीट दिलाने की पूरी कोशिश करूँगा। कृपया मुझे एक मिनट दें।",2,2
+i want to know my seat no, मुझे अपना सीट नंबर जानना है,2,0
+Thanks Ram! Please let me know your booking confirmation number?, धन्यवाद राम! कृपया मुझे अपनी बुकिंग पुष्टिकरण संख्या बताएं?,3,2
+Please assist me in my seating arrangement, कृपया मेरे बैठने की व्यवस्था में मेरी सहायता करें,2,0
+Alright! The seat P9 has been allotted to you which is an aisle seat., ठीक है! आपको सीट P9 आवंटित की गई है जो एक गलियारा सीट है।,2,0
+"Hello there, how may I assist you today?
+"," नमस्ते, मैं आज आपकी कैसे सहायता कर सकता हूँ?",3,0
+manoj prabhakaran 810jat, मनोज प्रभाकरण 810jat,2,0
+Perfect! Please allow me a moment while I go ahead and find the best deal for you., उत्तम! कृपया मुझे कुछ समय दें जब तक कि मैं आगे बढ़ूं और आपके लिए सबसे अच्छा सौदा ढूंढूं।,2,2
+ok, ठीक है,2,0
+"Thank you Ram, for the boarding pass I'd require your email address or phone number. Could you please help me with the details?"," धन्यवाद राम, बोर्डिंग पास के लिए मुझे आपका ईमेल पता या फोन नंबर चाहिए। क्या आप कृपया मुझे विवरण के साथ मदद कर सकते हैं?",3,0
+Could you also help me out with your full name?, क्या आप अपना पूरा नाम बताकर भी मेरी मदद कर सकते हैं?,3,0
+vasuki, वासुकी,2,0
+Please do reach out to us in case of further queries. Have a great day ahead!,कृपया आगे के प्रश्नों के मामले में हमसे संपर्क करें। आगे एक महान दिन हो!,2,2
+Sure. Could you please help me with your Last name and booking confirmation number?, ज़रूर। क्या आप कृपया अपने अंतिम नाम और बुकिंग पुष्टिकरण संख्या के साथ मेरी मदद कर सकते हैं?,3,0
+"Good news! I've emailed your boarding pass, you can download and document. Is there anything else I may help you with?"," खुशखबरी! मैंने आपका बोर्डिंग पास ईमेल कर दिया है, आप डाउनलोड कर सकते हैं और दस्तावेज़ बना सकते हैं। क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूं?",3,2
+"Sure! I'll help you in getting that done. May I know the departure and arrival cities?
+", ज़रूर! इसे पूरा करने में मैं आपकी मदद करूंगा। क्या मैं प्रस्थान और आगमन शहरों को जान सकता हूँ?,3,0
+Thank you sir, धन्यवाद महोदय,3,2
+Awesome! How may I help you?, बहुत बढ़िया! क्या मेरे द्वारा आपकी कोई सहायता हो सकती है?,3,2
+"Amazing! As I can check here, you are assigned a window seat and your seat number is F18. I hope you enjoy the view."," अद्भुत! जैसा कि मैं यहां देख सकता हूं, आपको एक विंडो सीट दी गई है और आपकी सीट संख्या F18 है। मुझे आशा है कि आप दृश्य का आनंद लेंगे।",3,2
+Sure! I'd be glad to help you in this regard. May I know your last name and your booking confirmation number?, ज़रूर! मुझे इस संबंध में आपकी मदद करने में खुशी होगी। क्या मैं आपका अंतिम नाम और आपकी बुकिंग पुष्टिकरण संख्या जान सकता हूँ?,3,0
+sorry 15A window seat is ok to me. please change it., सॉरी 15A विंडो सीट मेरे लिए ठीक है। कृपया इसे बदलें।,3,1
+"Hello there good morning! Sky high customer services, How may I help you today?
+"," नमस्ते वहाँ सुप्रभात! स्काई हाई कस्टमर सर्विसेज, मैं आज आपकी कैसे मदद कर सकता हूं?",3,0
+"That's alright! Allow me for a minute or two, while I quickly get this done for you."," वह ठीक है! मुझे एक या दो मिनट के लिए अनुमति दें, जबकि मैं आपके लिए यह जल्दी से कर देता हूं।",2,0
+hai, हाय,2,0
+DEVI, देवी,0,0
+Thank you so much. Please allow me a minute to check the seat assignment.,बहुत-बहुत धन्यवाद। कृपया मुझे सीट असाइनमेंट की जांच करने के लिए एक मिनट का समय दें।,3,0
+HI, नमस्ते,2,0
+okay thank you, ठीक है धन्यवाद,3,2
+"Sorry to keep you waiting, I have checked the details and found that there is 1 flight available of Indian airways which will be departing from Singapore at 4:30 am, on 18th September costing you $150, would that be alright?"," आपको प्रतीक्षा करने के लिए क्षमा करें, मैंने विवरण की जांच की है और पाया है कि भारतीय वायुमार्ग की 1 उड़ान उपलब्ध है जो सिंगापुर से 18 सितंबर को सुबह 4:30 बजे प्रस्थान करेगी, जिसकी कीमत आपको $150 है, क्या यह ठीक रहेगा?",3,0
+thanks for help to me, मेरी मदद के लिए धन्यवाद,3,2
+I'll help you out with that. May I know your full name and the booking confirmation number?, मैं इसमें आपकी मदद करूंगा। क्या मैं आपका पूरा नाम और बुकिंग पुष्टिकरण संख्या जान सकता हूँ?,3,0
+Would there be anything else I may assist you with?, क्या कुछ और होगा जिसमें मैं आपकी सहायता कर सकूं?,2,0
+"Thank you very much, Thiya for the details. The confirmation link will be sent to the email address shortly. Is there anything else I could help you with?"," बहुत बहुत धन्यवाद, विवरण के लिए थिया। पुष्टिकरण लिंक शीघ्र ही ईमेल पते पर भेजा जाएगा। क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूं?",3,2
+Superb! Please specify the seat you'd prefer to have., शानदार! कृपया वह सीट निर्दिष्ट करें जिसे आप पसंद करेंगे।,3,2
+FF45F5, FF45F5,0,0
+Good morning! You've reached Flamingo customers service. How may I assist you today?, सुबह बख़ैर! आप फ्लेमिंगो ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी मदद किस तरह कर सकता हूँ?,3,1
+Hello! Good morning. You've reached LMT Airways. How may I assist you today?, नमस्ते! सुबह बख़ैर। आप एलएमटी एयरवेज पहुंच गए हैं। आज मैं आपकी मदद किस तरह कर सकता हूँ?,3,0
+okay, ठीक है,2,0
+I NEED SITE SEAT, मुझे साइट सीट चाहिए,1,0
+"DEPARTURE - HYDRABAD , ARRIVAL - GOA"," प्रस्थान - हैदराबाद, आगमन - गोवा",0,0
+"Anything else I may help you out with today?
+", कुछ और मैं आज आपकी मदद कर सकता हूं?,2,0
+"Thank You! May I also know the 6 chartered booking confirmation number?
+", धन्यवाद! क्या मैं 6 चार्टर्ड बुकिंग पुष्टिकरण संख्या भी जान सकता हूँ?,3,0
+"Thank you for that. Could you please allow me a minute or two, while I check that for you? "," उसके लिये आपका धन्यवाद। क्या आप कृपया मुझे एक या दो मिनट का समय दे सकते हैं, जबकि मैं आपके लिए इसकी जाँच कर रहा हूँ?",3,0
+"Awesome! I'd like to inform you that I've booked the ticket for you. However, may I please get your email address to which a confirmation email will be sent. ","बहुत बढ़िया! मैं आपको सूचित करना चाहता हूं कि मैंने आपके लिए टिकट बुक कर लिया है। हालाँकि, क्या मुझे आपका ईमेल पता मिल सकता है, जिस पर एक पुष्टिकरण ईमेल भेजा जाएगा।",3,2
+I am comfortable with aisle seat., मैं गलियारे की सीट के साथ सहज हूं।,2,2
+can you check my seat assignment, क्या आप मेरे सीट असाइनमेंट की जांच कर सकते हैं,3,0
+May I know your last name please?, क्या मैं आपका अंतिम नाम जान सकता हूँ?,3,0
+Sure! May I know your name and the email address please?, ज़रूर! क्या मैं आपका नाम और ईमेल पता कृपया जान सकता हूँ?,3,0
+thats it, यह बात है,1,0
+"As there is no reply, this chat will get disconnected within 20 seconds. Thank you. Goodbye."," जैसा कि कोई जवाब नहीं है, यह चैट 20 सेकंड के भीतर डिस्कनेक्ट हो जाएगी। शुक्रिया। अलविदा।",3,1
+"Sure! May I know your phone number or email address so that I can send you the boarding pass in anyone of them. 
+", ज़रूर! क्या मैं आपका फोन नंबर या ईमेल पता जान सकता हूं ताकि मैं आपको उनमें से किसी में भी बोर्डिंग पास भेज सकूं।,3,0
+Thanks! I've sent you an the boarding pass on your email. I hope this will be helpful., धन्यवाद! मैंने आपको आपके ईमेल पर एक बोर्डिंग पास भेजा है। मुझे उम्मीद है कि ये मददगार होगा।,3,2
+"Fantastic! Here's your seat number L12 which is a middle seat, Is that okay for you?"," ज़बरदस्त! ये रहा आपकी सीट नंबर L12 जो बीच की सीट है, क्या यह आपके लिए ठीक है?",2,2
+"Sure, I'll updsate and send it again."," ज़रूर, मैं अपडेट करूँगा और इसे फिर से भेजूँगा।",2,0
+KU3578, KU3578,0,0
+no thanks," जी नहीं, धन्यवाद",3,1
+The flights from Jetblue and British Airways are available. Which one would you prefer?, जेटब्लू और ब्रिटिश एयरवेज की उड़ानें उपलब्ध हैं। आप कौन सा पसंद करेंगे?,3,0
+I'm Christine, मैं क्रिस्टीन हूँ,1,0
+A very good morning! You've reached the Moon Airways customer service. How may I help you today?, एक बहुत अच्छी सुबह! आप मून एयरवेज ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,2
+Good morning! You've reached Flamingo customers service. How may I help you today?, सुबह बख़ैर! आप फ्लेमिंगो ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,1
+"I'm glad that was helpful, thank you for reaching out to us. Have a great day ahead and happy traveling! "," मुझे खुशी है कि यह मददगार था, हमसे संपर्क करने के लिए धन्यवाद। आगे का दिन अच्छा हो और यात्रा सुखद हो!",3,2
+"Kindly send my boarding pass via my email address,it will more help for me."," कृपया मेरे ईमेल पते के माध्यम से मेरा बोर्डिंग पास भेजें, इससे मुझे और मदद मिलेगी।",3,0
+fine, ठीक,1,2
+Good morning! You've reached Flamingo customers service. How may I help you today?, सुबह बख़ैर! आप फ्लेमिंगो ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,1
+Please tell me your preference., कृपया मुझे अपनी पसंद बताएं।,2,0
+A very good morning! You've reached the Moon Airways customer service. How may I help you today?, एक बहुत अच्छी सुबह! आप मून एयरवेज ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,2
+For sure! I'll help you with that. Could you please let me know your last name and the booking confirmation number?,पक्का! मैं इसमें आपकी मदद करूंगा। क्या आप कृपया मुझे अपना अंतिम नाम और बुकिंग पुष्टिकरण संख्या बता सकते हैं?,3,0
+Would there be anything else I may assist you with?, क्या कुछ और होगा जिसमें मैं आपकी सहायता कर सकूं?,2,0
+Good morning! You've reached Flamingo customers service. How may I help you today?, सुबह बख़ैर! आप फ्लेमिंगो ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,1
+no thanks," जी नहीं, धन्यवाद",3,1
+"Thank You! May I also know the 6 chartered booking confirmation number?
+", धन्यवाद! क्या मैं 6 चार्टर्ड बुकिंग पुष्टिकरण संख्या भी जान सकता हूँ?,3,0
+"Great! Would you prefer aisle, window or middle row seat?"," महान! क्या आप गलियारे, खिड़की या मध्य पंक्ति की सीट पसंद करेंगे?",3,2
+Good to meet you. Could you please share the booking confirmation number?, आपसे मिलकर अच्छा लगा। क्या आप कृपया बुकिंग पुष्टिकरण संख्या साझा कर सकते हैं?,3,0
+Good morning! You've reached Flamingo customers service. How may I help you today?, सुबह बख़ैर! आप फ्लेमिंगो ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,1
+or phone number will do, या फोन नंबर करेगा,0,0
+hai, हाय,2,0
+DAISY   confirmation number 76TR45, डेज़ी पुष्टिकरण संख्या 76TR45,0,0
+i need boarding pass, मुझे बोर्डिंग पास चाहिए,1,0
+Great! You'll soon be receiving a mail with a link through which you'll be able to make the payment and then confirm your flight tickets. Anything else I may help you in?, महान! आपको जल्द ही एक लिंक के साथ एक मेल प्राप्त होगा जिसके माध्यम से आप भुगतान कर सकेंगे और फिर अपनी उड़ान टिकटों की पुष्टि कर सकेंगे। कुछ और मैं आपकी मदद कर सकता हूँ?,3,2
+Sure, ज़रूर,2,0
+Please let me know you're most preferred seat?, कृपया मुझे बताएं कि आप सबसे पसंदीदा सीट हैं?,2,0
+Amazing! Thanks for waiting! Your seat number is Er36. It is a window seat. Enjoy the view. I hope that would be helpful?, अद्भुत! प्रतीक्षा करने के लिए धन्यवाद! आपकी सीट संख्या Er36 है। यह एक विंडो सीट है। दृश्य का आनंद लें। मुझे आशा है कि यह मददगार होगा?,3,2
+Definitely! I'll be happy to help you with that. May I know your last name and your booking confirmation number?, निश्चित रूप से! मुझे इसमें आपकी मदद करने में खुशी होगी। क्या मैं आपका अंतिम नाम और आपकी बुकिंग पुष्टिकरण संख्या जान सकता हूँ?,3,2
+Sure. Could you please help me with your Last name and booking confirmation number?, ज़रूर। क्या आप कृपया अपने अंतिम नाम और बुकिंग पुष्टिकरण संख्या के साथ मेरी मदद कर सकते हैं?,3,0
+my name is mani, मेरा नाम मणि है,1,0
+"Alright! Thank you for that. Could you please allow me a moment, while I check that for you?"," ठीक है! उसके लिये आपका धन्यवाद। क्या आप कृपया मुझे एक क्षण की अनुमति दे सकते हैं, जबकि मैं इसे आपके लिए जांचता हूं?",3,0
+"Cordell Williamson
+", कॉर्डेल विलियमसन,0,0
+CS44LK, CS44LK,0,0
+i need my seat, मुझे अपनी सीट चाहिए,2,0
+william, विलियम,0,0
+"Absolutely! It can be and I'll be glad to help you in this, may I please know your last name?","बिल्कुल! यह हो सकता है और मुझे इसमें आपकी मदद करने में खुशी होगी, क्या मैं आपका अंतिम नाम जान सकता हूं?",3,0
+Superb! Could you please let me know the dates in which you'd prefer to travel?, शानदार! क्या आप कृपया मुझे उन तारीखों के बारे में बता सकते हैं जिनमें आप यात्रा करना पसंद करेंगे?,3,2
+Okay! May I know the preferred date of your travel?, ठीक! क्या मैं आपकी यात्रा की पसंदीदा तारीख जान सकता हूँ?,2,0
+Okay! May I know the preferred date of travel?, ठीक! क्या मैं यात्रा की पसंदीदा तारीख जान सकता हूँ?,2,0
+"Anything else I may help you out with today?
+", कुछ और मैं आज आपकी मदद कर सकता हूं?,2,0
+"Fantastic! Here's your seat number l7 which is a window seat, Is that okay for you?"," ज़बरदस्त! ये रहा आपका सीट नंबर l7 जो एक विंडो सीट है, क्या यह आपके लिए ठीक है?",2,2
+Yes It's a window seat., हाँ यह एक खिड़की वाली सीट है।,2,0
+Thanks! I'd like to inform you that the confirmation link has been sent to your email address., धन्यवाद! मैं आपको सूचित करना चाहता हूं कि पुष्टिकरण लिंक आपके ईमेल पते पर भेज दिया गया है।,3,0
+Great! Can I confirm all the details provided by you?, महान! क्या मैं आपके द्वारा प्रदान किए गए सभी विवरणों की पुष्टि कर सकता हूं?,3,2
+"Amazing! Good news! I've sent an email, please check your inbox. However, if you didn't receive the email. let me know I'll resend it. I hope that is useful?"," अद्भुत! खुशखबरी! मैंने एक ईमेल भेजा है, कृपया अपना इनबॉक्स देखें। हालांकि, अगर आपको ईमेल प्राप्त नहीं हुआ है। मुझे बताएं कि मैं इसे फिर से भेजूंगा। मुझे आशा है कि यह उपयोगी है?",3,2
+I ALREADY BOOK A TICKET I WANT TO CHANGE THIS SEAT, मैं पहले से ही एक टिकट बुक कर चुका हूं मैं इस सीट को बदलना चाहता हूं,2,1
+For sure! Could you please let me know your last name and the booking confirmation nunmber?, पक्का! क्या आप कृपया मुझे अपना अंतिम नाम और बुकिंग पुष्टिकरण संख्या बता सकते हैं?,3,0
+Absolutely! It will be my absolute pleasure to help you. Please may I know your name?, बिल्कुल! आपकी सहायता करना मुझे परम प्रसन्नता होगी। कृपया क्या मैं आपका नाम जान सकता हूँ?,2,2
+N32M56,N32M56,0,0
+"Alright! Will do that, Could you please let me know your email address?"," ठीक है! क्या आप ऐसा करेंगे, क्या आप कृपया मुझे अपना ईमेल पता बता सकते हैं?",3,0
+Sure! I'd love to help you! I'll certainly send you the boarding pass. May I know your full name please?, ज़रूर! मुझे आपकी मदद करना अच्छा लगेगा! मैं आपको बोर्डिंग पास जरूर भेजूंगा। क्या मैं आपका पूरा नाम जान सकता हूँ?,3,2
+my booking confirmation thr 415, मेरी बुकिंग पुष्टिकरण थ्रू 415,1,0
+nothing., कुछ नहीं।,2,0
+"josephw@hotmail.com
+", josephw@hotmail.com,0,0
+fine, ठीक,1,2
+My last name is Julie and No. is 6GDN76, मेरा अंतिम नाम जूली है और नंबर 6GDN76 है,1,0
+"Thank you! The seat number allotted to you is 25A. It's a window seat.
+", आपको धन्यवाद! आपको आवंटित सीट संख्या 25A है। यह एक विंडो सीट है।,3,0
+"Awesome! Thanks for choosing us, hope you'll have a wonderful trip ahead friend!"," बहुत बढ़िया! हमें चुनने के लिए धन्यवाद, आशा है कि आपके पास एक शानदार यात्रा होगी मित्र!",3,2
+5,5,0,0
+okay, ठीक है,2,0
+"Awesome! Thank you for that. Please allow me for a minute or two, while I get the best airways suggested to travel."," बहुत बढ़िया! उसके लिये आपका धन्यवाद। कृपया मुझे एक या दो मिनट के लिए अनुमति दें, जबकि मुझे यात्रा करने के लिए सुझाए गए सर्वोत्तम वायुमार्ग मिलते हैं।",3,2
+yes i would like a window seat, हाँ मुझे खिड़की वाली सीट चाहिए,2,0
+Could you tell me the date of flight?, क्या आप मुझे उड़ान की तारीख बता सकते हैं?,3,0
+Good morning! You've reached Flamingo customers service. How may I help you today?, सुबह बख़ैर! आप फ्लेमिंगो ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,1
+Awesome! Nice to meet you Ajay! Could you please share your booking confirmation number, बहुत बढ़िया! अजय जी आपसे मिलकर अच्छा लगा! क्या आप कृपया अपनी बुकिंग पुष्टिकरण संख्या साझा कर सकते हैं,3,2
+"Surely, thank you so much. Please stay connected for a minute."," ज़रूर, बहुत-बहुत धन्यवाद। कृपया एक मिनट के लिए जुड़े रहें।",3,0
+OK, ठीक है,2,0
+Thank you for sharing the details. You would be receiving the boarding pass shortly. Is there anything else I may help you with?, विवरण साझा करने के लिए धन्यवाद। आपको शीघ्र ही बोर्डिंग पास प्राप्त होगा। क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूं?,3,0
+"Yes, please. Thank you so very much.", हाँ कृपया। आपका बहुत धन्यवाद।,3,2
+hi, नमस्ते,2,0
+"Sure! May I know your phone number or email address so that I can send you the boarding pass in anyone of them. 
+", ज़रूर! क्या मैं आपका फोन नंबर या ईमेल पता जान सकता हूं ताकि मैं आपको उनमें से किसी में भी बोर्डिंग पास भेज सकूं।,3,0
+"Alright! It was pleasure assisting you, have a great day. Goodbye.","ठीक है! आपकी सहायता करके खुशी हुई, आपका दिन शुभ हो। अलविदा।",3,2
+OK THANK YOU, ठीक है धन्यवाद,3,2
+yes, हां,2,0
+morning, प्रभात,2,0
+"Sure! May I know your last name?
+", ज़रूर! क्या मैं आपका अंतिम नाम जान सकता हूँ?,2,0
+"I'm glad that was helpful, thank you for reaching out to us. Have a great day ahead and happy traveling! "," मुझे खुशी है कि यह मददगार था, हमसे संपर्क करने के लिए धन्यवाद। आगे का दिन अच्छा हो और यात्रा सुखद हो!",3,2
+check my seat assignment, मेरी सीट असाइनमेंट की जाँच करें,2,0
+i want to book plane ticket, मुझे हवाई जहाज का टिकट बुक करना है,1,0
+"Of course, I'll help you change. Allow me a moment, while I check for the availability."," बेशक, मैं आपको बदलने में मदद करूंगा। जब तक मैं उपलब्धता की जांच करता हूं, मुझे एक क्षण दें।",2,0
+OK, ठीक है,2,0
+A very good morning! You've reached the Moon Airways customer service. How may I help you today?, एक बहुत अच्छी सुबह! आप मून एयरवेज ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,2
+ALSO HELP ME TO FIND MY SEAT ASSIGNMENT, मेरा सीट असाइनमेंट खोजने में भी मेरी मदद करें,0,0
+Good news! The window seat is available and I've changed your seat to A1. Are you happy with it?, खुशखबरी! विंडो सीट उपलब्ध है और मैंने आपकी सीट को A1 में बदल दिया है। क्या तुम्हे इससे खुशी हुई?,3,2
+my mail  email address raja@gmail.com, मेरा मेल ईमेल पता raja@gmail.com,1,0
+Absolutely! I'll be glad to help you with it. Please may I know your full name?, बिल्कुल! मुझे इसमें आपकी मदद करने में खुशी होगी। कृपया क्या मैं आपका पूरा नाम जान सकता हूँ?,3,2
+Awesome! May I know the your mail id or phone number?, बहुत बढ़िया! क्या मैं आपकी मेल आईडी या फोन नंबर जान सकता हूं?,3,2
+NO thank you, नहीं धन्यवाद,3,1
+Awesome! Nice to meet you buddy! May I know your booking confirmation number as well?, बहुत बढ़िया! आपसे मिलकर अच्छा लगा दोस्त! क्या मैं आपकी बुकिंग पुष्टिकरण संख्या भी जान सकता हूँ?,3,2
+"Sure! I'll send to that as well, is there anything else I may assist you with?"," ज़रूर! मैं उसे भी भेजूंगा, क्या कुछ और है जिसमें मैं आपकी सहायता कर सकता हूं?",3,0
+Fantastic! The pass shall be sent to you shortly. Anything else I may help you with?, ज़बरदस्त! पास आपको शीघ्र ही भेजा जाएगा। कुछ और मैं आपकी मदद कर सकता हूँ?,3,2
+Awesome! May I know your preferred date?, बहुत बढ़िया! क्या मैं आपकी पसंदीदा तारीख जान सकता हूँ?,3,2
+I want to know my seat no, मुझे अपना सीट नंबर जानना है,2,0
+ok thankyou, ठीक है धन्यवाद,3,0
+WINDOW, खिड़की,0,0
+inba1234@gmail.com., inba1234@gmail.com।,0,0
+"I just have only one condition, I want my ticket within 300$ if possible. "," मेरी बस एक ही शर्त है, यदि संभव हो तो मैं 300$ के भीतर अपना टिकट चाहता हूं।",3,0
+Awesome! Nice to meet you buddy! May I know your booking confirmation number as well?, बहुत बढ़िया! आपसे मिलकर अच्छा लगा दोस्त! क्या मैं आपकी बुकिंग पुष्टिकरण संख्या भी जान सकता हूँ?,3,2
+hgj412@gmail.com, hgj412@gmail.com,0,0
+Could you help me with your email address?,क्या आप अपने ईमेल पते में मेरी मदद कर सकते हैं?,3,0
+"Thank you for being so patient and cooperative! It was really nice assisting you! I hope you have a great time, Happy travelling! Have a great day ahead! See ya! :)","इतने धैर्यवान और सहयोगी होने के लिए धन्यवाद! आपकी सहायता करना वाकई अच्छा लगा! मुझे आशा है कि आपके पास एक अच्छा समय है, हैप्पी ट्रैवलिंग! आगे एक महान दिन हो! फिर मिलेंगे! :)",3,2
+thanks, धन्यवाद,2,2
+"Okay! We have 13A available, would you like to take that?"," ठीक! हमारे पास 13A उपलब्ध है, क्या आप इसे लेना चाहेंगे?",3,0
+Thank you. Please allow me a minute to check the system., शुक्रिया। कृपया मुझे सिस्टम की जांच करने के लिए एक मिनट का समय दें।,3,0
+"Awesome! Thanks for reaching out to us, hope you have a wonderful trip ahead. "," बहुत बढ़िया! हमसे संपर्क करने के लिए धन्यवाद, आशा है कि आपकी आगे की यात्रा शानदार रही होगी।",3,2
+OK THANKS, ठीक है धन्यवाद,3,2
+yes, हां,2,0
+Thank you so much., बहुत-बहुत धन्यवाद।,3,2
+OH WAIT.. SORRY.. THERE'S A MISTAKE IN BOOKING NUMBER, ओह रुको.. क्षमा करें.. बुकिंग नंबर में एक गलती है,3,1
+Let me check if there a window seat available on your flight. Please allow me a moment., मुझे जाँचने दें कि क्या आपकी फ़्लाइट में विंडो सीट उपलब्ध है। कृपया मुझे एक क्षण की अनुमति दें।,2,0
+NOTHING ELSE, और कुछ नहीं,2,0
+no thanks," जी नहीं, धन्यवाद",3,1
+nothing else, और कुछ नहीं,1,0
+Good morning! You've reached Flamingo customers service. How may I help you today?, सुबह बख़ैर! आप फ्लेमिंगो ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,1
+You're welcome! Would there be anything else I may assist you with?, आपका स्वागत है! क्या कुछ और होगा जिसमें मैं आपकी सहायता कर सकूं?,3,2
+"Thank you Mr.Ganesh. Please allow me a moment, I'll get back to you with the details."," धन्यवाद श्री गणेश। कृपया मुझे एक क्षण दें, मैं विवरण के साथ आपके पास वापस आऊंगा।",3,0
+Thank you! Can you send me my updated boarding pass?, आपको धन्यवाद! क्या आप मुझे मेरा अपडेटेड बोर्डिंग पास भेज सकते हैं?,3,0
+I apologize!, मैं क्षमाप्रार्थी हूं!,3,0
+Good morning! You've reached Flamingo customers service. How may I help you today?, सुबह बख़ैर! आप फ्लेमिंगो ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,1
+My pleasure! Will there be anything else I could help you with?, मेरा सौभाग्य! क्या कुछ और होगा जिसमें मैं आपकी मदद कर सकूं?,3,2
+hi, नमस्ते,2,0
+booking confirmation number is kwot21, बुकिंग पुष्टिकरण संख्या kwot21 है,2,0
+02-09-2018,02-09-2018,0,0
+Good Morning! You've been connected to StarAirways customer service! How may I assist you today?, शुभ प्रभात! आप StarAirways ग्राहक सेवा से जुड़ चुके हैं! आज मैं आपकी मदद किस तरह कर सकता हूँ?,3,0
+I need know about my seat assignment., मुझे अपने सीट असाइनमेंट के बारे में पता होना चाहिए।,2,0
+Good bye, अलविदा,3,0
+Hi, नमस्ते,2,0
+I would like to change my seat kindly guide me., मैं अपनी सीट बदलना चाहता हूं कृपया मेरा मार्गदर्शन करें।,3,1
+"Thank you for choosing us, we are always here to help you. Have a wonderful flight!"," हमें चुनने के लिए धन्यवाद, हम हमेशा आपकी मदद के लिए यहां हैं। एक अद्भुत उड़ान लो!",3,2
+You're welcome! Goodbye!, आपका स्वागत है! अलविदा!,2,2
+"Sure, its Jim.Roberts23@gmail.com"," ज़रूर, जिम.रॉबर्ट्स23@gmail.com",2,0
+august 30/08/2018, अगस्त 30/08/2018,0,0
+Sure thing! I'd be glad to help you with that. May I know your last name and your booking confirmation number please?,अवश्य! मुझे इसमें आपकी मदद करने में खुशी होगी। क्या मैं आपका अंतिम नाम और आपकी बुकिंग पुष्टिकरण संख्या जान सकता हूँ?,3,0
+hai ya can please tell my seat assignment," है, कृपया मेरी सीट असाइनमेंट बता सकते हैं",2,0
+"Thank you for your patience. You're assigned to the seat number H2, which is an aisle seat. Would you need anything else?"," आपके धैर्य के लिए धन्यवाद। आपको सीट नंबर H2 को सौंपा गया है, जो एक गलियारा सीट है। क्या आपको कुछ और चाहिए होगा?",3,2
+yes, हां,2,0
+Sure! I'd be glad to help you with that. Could you please help me with your last name and your booking confirmation number?, ज़रूर! मुझे इसमें आपकी मदद करने में खुशी होगी। क्या आप कृपया अपने अंतिम नाम और अपनी बुकिंग पुष्टिकरण संख्या के साथ मेरी मदद कर सकते हैं?,3,0
+alvins martion, एल्विन्स मार्शन,0,0
+i can some drink water, मैं कुछ पानी पी सकता हूँ,1,0
+Great! And your email address would be?, महान! और आपका ईमेल पता होगा?,3,2
+ok, ठीक है,2,0
+SSG245, एसएसजी245,0,0
+w34r67, w34r67,0,0
+You're welcome! Would there be anything else that I may help you with?, आपका स्वागत है! क्या कुछ और होगा जिससे मैं आपकी मदद कर सकूं?,3,2
+ok thanks, ठीक है धन्यवाद,3,0
+"I appreciate your patience! As I've checked, the seat allotted to you is a middle seat which is F4. "," मैं आपके धैर्य की सराहना करता हूँ! जैसा कि मैंने जाँच की है, आपको आवंटित सीट बीच की सीट है जो F4 है।",3,2
+"Oh okay! We have 9C available which is a window seat, is that okay for you? "," ओह ठीक है! हमारे पास 9C उपलब्ध है जो एक विंडो सीट है, क्या यह आपके लिए ठीक है?",2,0
+"Perfect! I see that there is an early morning flight operated by Emirates EA112 at a cost of $230. It departs at 7:AM and arrives at 11:30AM.
+", उत्तम! मैं देखता हूं कि एमिरेट्स ईए112 द्वारा $230 की लागत से संचालित एक सुबह की उड़ान है। यह सुबह 7 बजे छूटती है और 11:30 बजे आती है।,2,2
+You're always welcome! Have a great day ahead and a safe journey! It was a pleasure assisting you., आपका हमेशा स्वागत है! आगे का दिन अच्छा हो और सुरक्षित यात्रा हो! आपकी सहायता करना खुशी की बात थी।,3,2
+"Sure, could you please share your email address?"," ज़रूर, क्या आप कृपया अपना ईमेल पता साझा कर सकते हैं?",3,0
+Sure! Thanks for the correction! I'd like to inform you that the boarding pass has been sent to your email address.,ज़रूर! सुधारों के लिए धन्यवाद! मैं आपको सूचित करना चाहता हूं कि बोर्डिंग पास आपके ईमेल पते पर भेज दिया गया है।,3,0
+"Oh sure, would you like to travel in a Economy, Business or first class and may I also know the number of passengers travelling?"," बिल्कुल, क्या आप अर्थव्यवस्था, व्यवसाय या प्रथम श्रेणी में यात्रा करना चाहेंगे और क्या मैं यह भी जान सकता हूँ कि यात्रा करने वाले यात्रियों की संख्या कितनी है?",3,0
+can you send me my boarding pass to my mail id, क्या आप मुझे मेरा बोर्डिंग पास मेरी मेल आईडी पर भेज सकते हैं,3,0
+"Good news! I've gone ahead with your request of changing your seat and your new seat  number is 13K which is a aisle seat, hope that will be comfortable."," खुशखबरी! मैं आपकी सीट बदलने के आपके अनुरोध के साथ आगे बढ़ गया हूं और आपकी नई सीट संख्या 13K है जो एक गलियारा सीट है, आशा है कि यह आरामदायक होगी।",3,2
+Surely! Could you please help me with your last name and your booking confirmation number?, निश्चित रूप से! क्या आप कृपया अपने अंतिम नाम और अपनी बुकिंग पुष्टिकरण संख्या के साथ मेरी मदद कर सकते हैं?,3,0
+I  need boarding pass, मुझे बोर्डिंग पास चाहिए,1,0
+"I really appreciate for staying connected. As per the booking confirmation number, your seat number is L3 Aisle. "," मैं वास्तव में जुड़े रहने के लिए सराहना करता हूं। बुकिंग कन्फर्मेशन नंबर के अनुसार, आपका सीट नंबर L3 Aisle है।",3,2
+HAI, हाई,2,0
+no thanks," जी नहीं, धन्यवाद",3,1
+my booking confirmation number edw639, मेरी बुकिंग पुष्टिकरण संख्या edw639,1,0
+03-09-2018,03-09-2018,0,0
+" For sure, could you please help me with your last name and the booking confirmation number?"," निश्चित रूप से, क्या आप कृपया अपने अंतिम नाम और बुकिंग पुष्टिकरण संख्या के साथ मेरी मदद कर सकते हैं?",3,0
+ok, ठीक है,2,0
+Sure. Could you please help me with your Last name and booking confirmation number?, ज़रूर। क्या आप कृपया अपने अंतिम नाम और बुकिंग पुष्टिकरण संख्या के साथ मेरी मदद कर सकते हैं?,3,0
+check my seat assignment, मेरी सीट असाइनमेंट की जाँच करें,2,0
+Welcome to VSAirlines! You're talking to the Customer Executive! How may I help you today?, वीएस एयरलाइंस में आपका स्वागत है! आप ग्राहक कार्यकारी से बात कर रहे हैं! आज मैं आपकी कैसे मदद कर सकता हूँ?,3,0
+Alright! Please allow me a moment while I check the seat allotment of yours.,"ठीक है! कृपया मुझे एक क्षण की अनुमति दें, जब तक कि मैं आपके सीट आवंटन की जाँच करूँ।",3,0
+hi, नमस्ते,2,0
+That's all. thanks, बस इतना ही। धन्यवाद,3,0
+my went to know my sent no, मेरे भेजे गए नंबर के बारे में पता चला,2,1
+Deepthi, दीप्ति,2,0
+Ask for my boarding pass to be sent to my email address or phone number, मेरा बोर्डिंग पास मेरे ईमेल पते या फोन नंबर पर भेजने के लिए कहें,2,0
+no thanks," जी नहीं, धन्यवाद",3,1
+"Awesome! Ram, It is nice meeting you! May I know where you are travelling to? and the city your travelling from?"," बहुत बढ़िया! राम, आपसे मिलकर अच्छा लगा! क्या मैं जान सकता हूँ कि आप कहाँ की यात्रा कर रहे हैं? और जिस शहर से आप यात्रा कर रहे हैं?",3,2
+Pleasure's mine. Please go through this website: www.pilotairlines.com in case of any query and help us help you. Good day!, आनंद मेरा है। कृपया इस वेबसाइट को देखें: www.pilotairlines.com किसी भी प्रश्न के मामले में और आपकी सहायता करने में हमारी सहायता करें। अच्छा दिन!,3,2
+Yes.please, हाँ कृपया,2,0
+no thanks," जी नहीं, धन्यवाद",3,1
+"Anything else I may help you out with today?
+", कुछ और मैं आज आपकी मदद कर सकता हूं?,2,0
+"Thank You! May I also know the 6 chartered booking confirmation number?
+", धन्यवाद! क्या मैं 6 चार्टर्ड बुकिंग पुष्टिकरण संख्या भी जान सकता हूँ?,3,0
+ok, ठीक है,2,0
+Welcome to VSAirlines! You're talking to the Customer Executive! Could you please help me with your Departure and Arrival city?, वीएस एयरलाइंस में आपका स्वागत है! आप ग्राहक कार्यकारी से बात कर रहे हैं! क्या आप कृपया अपने प्रस्थान और आगमन शहर में मेरी मदद कर सकते हैं?,3,0
+"Thank you, Pandi! For the boarding pass, I'd require your phone number or email address. Could you please help me with that?"," धन्यवाद, पांडी! बोर्डिंग पास के लिए, मुझे आपका फ़ोन नंबर या ईमेल पता चाहिए। क्या आप कृपया इसमें मेरी मदद कर सकते हैं?",3,0
+no thanks," जी नहीं, धन्यवाद",3,1
+Good Morning! You've been connected to StarAirways customer service! How may I assist you today?, शुभ प्रभात! आप StarAirways ग्राहक सेवा से जुड़ चुके हैं! आज मैं आपकी मदद किस तरह कर सकता हूँ?,3,0
+Thanks  for the confirmation! I'd like to inform you that the boarding pass has been successfully mailed to your email address., पुष्टि के लिए धन्यवाद! मैं आपको सूचित करना चाहता हूं कि बोर्डिंग पास सफलतापूर्वक आपके ईमेल पते पर भेज दिया गया है।,3,2
+HAI, हाई,2,0
+Hello! You've been connected to StarAirwyas. How may I assist you?,नमस्ते! आप StarAirwyas से जुड़ चुके हैं। मैं आपकी कैसे सहायता कर सकता हूँ?,3,0
+My email address is mani4@gmail.com and my phone number  is 897459874, मेरा ईमेल पता mani4@gmail.com है और मेरा फोन नंबर 897459874 . है,2,0
+Sure. Please give me a moment to check.,ज़रूर। कृपया मुझे जांचने के लिए एक क्षण दें।,2,0
+Okay don't change window seat is okay for me., ठीक है खिड़की की सीट मत बदलो मेरे लिए ठीक है।,2,1
+"Good morning! You've reached Alliance Airways Customer service, how may I help you?  "," सुबह बख़ैर! आप एलायंस एयरवेज ग्राहक सेवा तक पहुँच चुके हैं, मैं आपकी कैसे मदद कर सकता हूँ?",3,0
+Thank you so much.. Now I am happy with it..., बहुत-बहुत धन्यवाद.. अब मैं इससे खुश हूं...,3,2
+i have my boarding pass number, मेरे पास मेरा बोर्डिंग पास नंबर है,2,0
+Could you also help me with the booking confirmation number?, क्या आप बुकिंग कन्फर्मेशन नंबर में भी मेरी मदद कर सकते हैं?,3,0
+"Fantastic! Here's your seat number K17 which is a window seat, Is that okay for you?"," ज़बरदस्त! ये रहा आपकी सीट नंबर K17 जो कि विंडो सीट है, क्या यह आपके लिए ठीक है?",3,2
+"Sure! May I know your phone number or email address so that I can send you the boarding pass in anyone of them. 
+", ज़रूर! क्या मैं आपका फोन नंबर या ईमेल पता जान सकता हूं ताकि मैं आपको उनमें से किसी में भी बोर्डिंग पास भेज सकूं।,3,0
+hai, हाय,2,0
+Hello, नमस्ते,2,0
+"Avah Serrano
+", अवह सेरानो,1,0
+"Not a problem, I'll change that for you. Allow me a moment, I'll check for the availability and get back to you."," कोई समस्या नहीं है, मैं इसे आपके लिए बदल दूँगा। मुझे एक क्षण दें, मैं उपलब्धता की जांच करूंगा और आपसे संपर्क करूंगा।",3,0
+"Thank you for being so patient and cooperative! It was really nice assisting you! I hope you have a great time, Happy travelling! Have a great day ahead! See ya! :)","इतने धैर्यवान और सहयोगी होने के लिए धन्यवाद! आपकी सहायता करना वाकई अच्छा लगा! मुझे आशा है कि आपके पास एक अच्छा समय है, हैप्पी ट्रैवलिंग! आगे एक महान दिन हो! फिर मिलेंगे! :)",3,2
+fg56t5, fg56t5,0,0
+ok bye, चलो बाय,2,0
+A very good morning! You've reached the Moon Airways customer service., एक बहुत अच्छी सुबह! आप मून एयरवेज ग्राहक सेवा तक पहुँच चुके हैं।,3,2
+Have a great day!, आपका दिन अच्छा रहे!,2,2
+Thanks! I'd like to inform you that your boarding pass has been sent to your email address., धन्यवाद! मैं आपको सूचित करना चाहता हूं कि आपका बोर्डिंग पास आपके ईमेल पते पर भेज दिया गया है।,3,0
+"Thank you! Just allow me a moment, I'll go ahead and check your seating assignment and let you know."," आपको धन्यवाद! बस मुझे एक क्षण का समय दें, मैं आगे जाकर आपके बैठने के कार्य की जाँच करूँगा और आपको बता दूँगा।",3,0
+HD61HP, एचडी61एचपी,0,0
+R9*, आर9*,0,0
+good morning sir, सुप्रभात सर,3,2
+GOOD, अच्छा,3,2
+anthony, एंथोनी,0,0
+my arun@gmail.com, my arun@gmail.com,1,0
+"A morning flight is available which will depart at 7:48 A.M. and the duration of the flight is 5 hours. The date is as per your wish i.e. 25th Aug,2018. And the cost per head would be $289. Would that be okay?"," एक सुबह की उड़ान उपलब्ध है जो सुबह 7:48 बजे प्रस्थान करेगी और उड़ान की अवधि 5 घंटे है। तिथि आपकी इच्छा के अनुसार है अर्थात 25 अगस्त, 2018। और प्रति व्यक्ति लागत $289 होगी। क्या यह ठीक रहेगा?",2,0
+"Sure, thing! Could you please help me with the departure city and the arrival city?",अवश्य! क्या आप कृपया प्रस्थान शहर और आगमन शहर के बारे में मेरी मदद कर सकते हैं?,3,0
+Okay, ठीक,2,2
+Great! Is there anything else I may help you in?, महान! क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूं?,3,2
+SistersOlJameson@gmail.com, SistersOlJameson@gmail.com,0,0
+R1SF2D, R1SF2D,0,0
+. Ask for my boarding pass to be sent my email address or phone number., . मेरा बोर्डिंग पास मेरा ईमेल पता या फोन नंबर भेजने के लिए कहें।,2,0
+"Hello there, how may I assist you today?
+"," नमस्ते, मैं आज आपकी कैसे सहायता कर सकता हूँ?",3,0
+David.H, डेविड.हो,0,0
+Sure, ज़रूर,2,0
+"Hello, you've reached Sky Travels. How may I help you today?"," नमस्कार, आप स्काई ट्रेवल्स में पहुंच गए हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?",3,0
+i want to know my seat no, मुझे अपना सीट नंबर जानना है,2,0
+Are we connected?, क्या हम जुड़े हुए हैं?,0,0
+Would you please be patient!, क्या आप कृपया धैर्य रखें!,3,0
+Awesome! Thanks!, बहुत बढ़िया! धन्यवाद!,3,2
+"Good morning! You're talking to Alliance India Airways, how may I help you today?"," सुबह बख़ैर! आप एलायंस इंडिया एयरवेज से बात कर रहे हैं, मैं आज आपकी कैसे मदद कर सकता हूं?",3,0
+BOOK NO: PP0Y56, बुक नं: PP0Y56,2,0
+no please change it to middle, नहीं कृपया इसे बीच में बदलें,3,0
+"Wow! That's awesome! I'd love to book flight tickets for you, May I know departure and arrival city?"," बहुत खूब! वह तो कमाल है! मुझे आपके लिए फ्लाइट टिकट बुक करना अच्छा लगेगा, क्या मैं प्रस्थान और आगमन शहर जान सकता हूँ?",3,2
+Welcome to PilotAirlines! You're talking to the Customer Executive! How may I help you today?, पायलट एयरलाइंस में आपका स्वागत है! आप ग्राहक कार्यकारी से बात कर रहे हैं! आज मैं आपकी कैसे मदद कर सकता हूँ?,3,0
+Perfect! Please give me a minute to check the seat assigned to you., उत्तम! कृपया मुझे आपको सौंपी गई सीट की जांच करने के लिए एक मिनट दें।,3,2
+Perfect! Will there be anything else I could help you with?, उत्तम! क्या कुछ और होगा जिसमें मैं आपकी मदद कर सकूं?,2,2
+FIRST CLASS, प्रथम श्रेणी,0,2
+Okay, ठीक,2,0
+A very good morning! You've reached the Moon Airways customer service. How may I help you today?, एक बहुत अच्छी सुबह! आप मून एयरवेज ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,2
+yes, हां,2,0
+my name is kavi  booking confirmation number kjh785, मेरा नाम कवि बुकिंग पुष्टिकरण संख्या kjh785 है,1,0
+For sure! I'll help you with that. Could you please let me know your last name and the booking confirmation number?,पक्का! मैं इसमें आपकी मदद करूंगा। क्या आप कृपया मुझे अपना अंतिम नाम और बुकिंग पुष्टिकरण संख्या बता सकते हैं?,3,0
+Fantastic! Thank you for reaching out to us. Have a great journey. Bye., ज़बरदस्त! हमसे संपर्क की पहल के लिए आपका धन्यवाद। शानदार यात्रा करें। अलविदा।,3,2
+Please change my seat., कृपया मेरी सीट बदल दें।,2,0
+That's okay! :), वह ठीक है! :),2,2
+"Oh, Yes! I'd be glad to help you out. I'll need your details to pull up your profile. May I know your full name please?",ओह हां! मुझे आपकी मदद करने में खुशी होगी। आपकी प्रोफ़ाइल को ऊपर खींचने के लिए मुझे आपके विवरण की आवश्यकता होगी। क्या मैं आपका पूरा नाम जान सकता हूँ?,3,0
+"Hello there, how may I assist you today?
+"," नमस्ते, मैं आज आपकी कैसे सहायता कर सकता हूँ?",3,0
+Could you also help me with the booking confirmation number?, क्या आप बुकिंग कन्फर्मेशन नंबर में भी मेरी मदद कर सकते हैं?,3,0
+I apologize! Could you please share your booking confirmation number? it is six characters mix of letters and numbers., मैं क्षमाप्रार्थी हूं! क्या आप कृपया अपनी बुकिंग पुष्टिकरण संख्या साझा कर सकते हैं? यह अक्षरों और संख्याओं का छह वर्णों का मिश्रण है।,3,0
+And your booking number would be?, और आपका बुकिंग नंबर होगा?,2,0
+Fantastic! I've sent your boarding pass to your given email address. Would there be anything else that I may help you with?, ज़बरदस्त! मैंने आपका बोर्डिंग पास आपके दिए गए ईमेल पते पर भेज दिया है। क्या कुछ और होगा जिसमें मैं आपकी मदद कर सकूं?,3,2
+"Awesome! Thank you for that Mr.Martin. Please allow me for a minute or two, while I get this done for you."," बहुत बढ़िया! इसके लिए धन्यवाद मिस्टर मार्टिन। कृपया मुझे एक या दो मिनट के लिए अनुमति दें, जबकि मैं आपके लिए यह कर रहा हूं।",3,2
+Great! Will you be travelling alone?, महान! क्या आप अकेले यात्रा करेंगे?,3,2
+Great! Could you help me with the number of passengers as well?, महान! क्या आप यात्रियों की संख्या में भी मेरी मदद कर सकते हैं?,3,2
+St louis and arriving in Denver, सेंट लुइस और डेनवर में पहुंचना,0,0
+"Perfect! Thank you for that Mr. Karuppesamy. Please allow me for a moment, while I get this done for you."," उत्तम! इसके लिए धन्यवाद श्री करुप्पेसामी। कृपया मुझे एक पल के लिए अनुमति दें, जबकि मैं आपके लिए यह कर रहा हूं।",3,2
+alberyjohnson44@gmail.com, alberyjohnson44@gmail.com,1,0
+Definitely! I'd be glad to help you with that. Could you please help me with your last name and your booking confirmation number?, निश्चित रूप से! मुझे इसमें आपकी मदद करने में खुशी होगी। क्या आप कृपया अपने अंतिम नाम और अपनी बुकिंग पुष्टिकरण संख्या के साथ मेरी मदद कर सकते हैं?,3,2
+CHANGE MY SEAT ASSIGNMNET, मेरी सीट बदलें,0,1
+"Anything else I may help you out with today?
+", कुछ और मैं आज आपकी मदद कर सकता हूं?,2,0
+All good, सब अच्छा,0,2
+A very good morning! You've reached the Moon Airways customer service. How may I help you today?, एक बहुत अच्छी सुबह! आप मून एयरवेज ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,2
+ok thanks, ठीक है धन्यवाद,3,0
+rd56k4,rd56k4,2,0
+thaniks, थानिक्सो,2,0
+"Hello there good evening! Sky high customer services, How may I help you today?
+"," नमस्ते वहाँ शुभ संध्या! स्काई हाई कस्टमर सर्विसेज, मैं आज आपकी कैसे मदद कर सकता हूं?",3,0
+i want check my seat assignment, मुझे अपना सीट असाइनमेंट चेक करना है,2,0
+Great! May I please know your email address to which I should be sending the boarding pass?, महान! क्या मैं आपका ईमेल पता जान सकता हूँ जिस पर मुझे बोर्डिंग पास भेजना चाहिए?,3,2
+I'll help you out with that. May I know your full name and the booking confirmation number?, मैं इसमें आपकी मदद करूंगा। क्या मैं आपका पूरा नाम और बुकिंग पुष्टिकरण संख्या जान सकता हूँ?,3,0
+NUMBER - HTC692, नंबर - एचटीसी692,0,0
+sure, ज़रूर,2,0
+Kindly allocate me any other Aisle seat., कृपया मुझे कोई अन्य गलियारा सीट आवंटित करें।,2,0
+"Okay, You have shared your email address, I'm assuming that you want me to share it to your email address?"," ठीक है, आपने अपना ईमेल पता साझा कर लिया है, मैं मान रहा हूं कि आप चाहते हैं कि मैं इसे आपके ईमेल पते पर साझा करूं?",2,0
+My last name is Smith and my booking number is AZ231F67., मेरा उपनाम स्मिथ है और मेरा बुकिंग नंबर AZ231F67 है।,2,0
+You're always welcome! Have a great day too. It was a pleasure assisting you. Take care and have a fun filled trip! :), आपका हमेशा स्वागत है! आपक दिन भी अच्छा हो। आपकी सहायता करना खुशी की बात थी। ध्यान रखें और एक मजेदार यात्रा का आनंद लें! :),3,2
+NOTHING ELSE, और कुछ नहीं,2,0
+Thank you for waiting. Your patience is greatly appreciated. Your seat number is B3 and it is an aisle. Is there anything else I might help you with?, प्रतीक्षा के लिए धन्यवाद। आपके धैर्य की बहुत सराहना की जाती है। आपकी सीट संख्या B3 है और यह एक गलियारा है। क्या कुछ और है जिसमें मैं आपकी मदद कर सकता हूं?,3,2
+NODALOVE@GMAIL.COM, NODALOVE@GMAIL.COM,1,0
+Awesome! Could you please help me with your email address?, बहुत बढ़िया! क्या आप कृपया मुझे अपने ईमेल पते में मदद कर सकते हैं?,3,2
+hi, नमस्ते,2,0
+Hope we are connected?, आशा है कि हम जुड़े हुए हैं?,2,0
+FR5DE4, FR5DE4,0,0
+"OK, A1C3E6B should be the booking confirmation number. Sorry for the mix-up."," ठीक है, A1C3E6B बुकिंग पुष्टिकरण संख्या होनी चाहिए। मिश्रण के लिए खेद है।",3,0
+ok, ठीक है,2,0
+Welcome to PilotAirlines! You're talking to the Customer Executive! How may I help you today?, पायलट एयरलाइंस में आपका स्वागत है! आप ग्राहक कार्यकारी से बात कर रहे हैं! आज मैं आपकी कैसे मदद कर सकता हूँ?,3,0
+I prefer aisle seat can you arrange for it, मुझे गलियारा सीट पसंद है क्या आप इसकी व्यवस्था कर सकते हैं,3,0
+"Could you please help me with a preferred date?  
+", क्या आप कृपया मुझे एक पसंदीदा तारीख के साथ मदद कर सकते हैं?,3,0
+i want plane ticket, मुझे हवाई जहाज का टिकट चाहिए,1,0
+"Great, Now I would need the number of passengers travelling and your email address? would please help me with it?","बढ़िया, अब मुझे यात्रा करने वाले यात्रियों की संख्या और आपके ईमेल पते की आवश्यकता होगी? क्या कृपया इसमें मेरी मदद करें?",3,0
+Awesome! Would you like to travel in a economy class or a business class?, बहुत बढ़िया! क्या आप इकोनॉमी क्लास या बिजनेस क्लास में यात्रा करना चाहेंगे?,3,2
+24-08-2018,24-08-2018,0,0
+im not sure about querry, मैं क्वेरी के बारे में निश्चित नहीं हूँ,2,0
+Good morning! You've reached Flamingo customers service. How may I help you today?, सुबह बख़ैर! आप फ्लेमिंगो ग्राहक सेवा तक पहुँच चुके हैं। आज मैं आपकी कैसे मदद कर सकता हूँ?,3,1
+Wonderful! Would there be anything else I may assist you with?, अद्भुत! क्या कुछ और होगा जिसमें मैं आपकी सहायता कर सकूं?,3,2
+OK, ठीक है,2,0
+Porter J845K4, पोर्टर J845K4,0,0
+Awesome! May I know your mail id or phone number please?, बहुत बढ़िया! क्या मैं आपकी मेल आईडी या फोन नंबर जान सकता हूं?,3,2
+Sure! I'll help you with that. May I know your last name please?, ज़रूर! मैं इसमें आपकी मदद करूंगा। क्या मैं आपका अंतिम नाम जान सकता हूँ?,3,0
+Yes sure! My name is rajkumar, हाँ यकीनन! मेरा नाम राजकुमार है,2,0
+ad1234, विज्ञापन1234,0,0
+"It is my pleasure assisting you, I'm so glad that I could resolve all your queries for today. Thanks a ton for reaching out to Jet Customer Service! We hope you serve better! Have a great day ahead!"," आपकी सहायता करते हुए मुझे खुशी हो रही है, मुझे बहुत खुशी है कि मैं आज के लिए आपके सभी प्रश्नों का समाधान कर सका। जेट ग्राहक सेवा तक पहुंचने के लिए बहुत-बहुत धन्यवाद! हमें उम्मीद है कि आप बेहतर सेवा करेंगे! आगे एक महान दिन हो!",3,2
+Sure! May I have your email address please?, ज़रूर! क्या मुझे आपका ईमेल पता मिल सकता है?,3,0
+My email address is robert.wilson69@outlook.com, मेरा ईमेल पता है robert.wilson69@outlook.com,1,0
+murali gdf459, मुरली gdf459,0,0
+Sure thing! I'll be happy to help you with that. May I know your last name and your booking confirmation number please?, अवश्य! मुझे इसमें आपकी मदद करने में खुशी होगी। क्या मैं आपका अंतिम नाम और आपकी बुकिंग पुष्टिकरण संख्या जान सकता हूँ?,3,0
+"Sure, may I know your last name please?"," ज़रूर, क्या मैं आपका अंतिम नाम जान सकता हूँ?",3,0
+Hello! You've been connected to StarAirwyas. How may I assist you?,नमस्ते! आप StarAirwyas से जुड़ चुके हैं। मैं आपकी कैसे सहायता कर सकता हूँ?,3,0
+"Thank you for the details, please give me a minute to proceed further."," विवरण के लिए धन्यवाद, कृपया मुझे आगे बढ़ने के लिए एक मिनट दें।",3,0
+anthony, एंथोनी,0,0
+Wonderful! Please feel free to reach out to us for further queries. Have an amazing journey. Bye., अद्भुत! कृपया आगे के प्रश्नों के लिए हमसे बेझिझक संपर्क करें। एक अद्भुत यात्रा करें। अलविदा।,3,2
+Good morning! You've reached Alliance Airways Customer service.,सुबह बख़ैर! आप एलायंस एयरवेज ग्राहक सेवा तक पहुँच चुके हैं।,3,0
+"Alright! It was great assisting you, thanks for choosing our services. Have a safe flight, goodbye.
+"," ठीक है! आपकी सहायता करके बहुत अच्छा लगा, हमारी सेवाओं को चुनने के लिए धन्यवाद। एक सुरक्षित उड़ान लो, अलविदा।",3,2
